@@ -181,7 +181,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url("../img/touring.jpg");
+	background-image: url("../img/bookshelf.jpg");
 	background-size: cover;
 	background-position: center center;
 	color: white;
@@ -189,8 +189,10 @@ HEADER STYLING
 	height: 3em;
 
 	.container {
-		padding: 0;
 		max-width: 100%;
+
+    padding: 0;
+    background: rgba($primary-color, 0.7);
 	}
 
 	h1 {
