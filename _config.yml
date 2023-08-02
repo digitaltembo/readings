@@ -1,7 +1,7 @@
 title: Nolan Can Read
 description: Some books I have been reading (or listening to? Kind of counts?)
 
-url: https://long-haul.netlify.app
+url: https://readings.of.nhawk.in/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
