@@ -188,11 +188,25 @@ HEADER STYLING
 	padding: 0;
 	height: 3em;
 
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba($primary-color, 0.6);
+    height: 3em;
+    // background-image: url("../img/bookshelf.jpg");
+    // background-size: cover;
+    // background-position: center center;
+    // filter: blur(2px) sepia(1) saturate(1.4) brightness(0.7) hue-rotate(-100deg);
+  }
+
 	.container {
 		max-width: 100%;
-
     padding: 0;
-    background: rgba($primary-color, 0.7);
 	}
 
 	h1 {
@@ -204,6 +218,7 @@ HEADER STYLING
 		font-family: $sans-serif;
 		font-weight: 800;
 		text-transform: uppercase;
+    position: absolute;
 
 		a {
 			color: white;

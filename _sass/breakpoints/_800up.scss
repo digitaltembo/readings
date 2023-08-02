@@ -63,6 +63,10 @@ HEADER STYLING
 	position: relative;
 	padding-bottom: 2em;
 
+  &::before {
+    height: 15em;
+  }
+
 	.container {
 		position: relative;
 		top: 50%;
@@ -76,6 +80,7 @@ HEADER STYLING
 		line-height: 1;
 		letter-spacing: -3px;
 		padding-left: 0;
+    position: initial;
 	}
 
 	nav {
