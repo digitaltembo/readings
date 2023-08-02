@@ -21,3 +21,5 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+  - title: Authors
+    url: /authors
