@@ -4,7 +4,8 @@ author: Isabelle Allende
 date: 2023-05-28 22:52:49
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

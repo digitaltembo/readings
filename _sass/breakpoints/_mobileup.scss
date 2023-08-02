@@ -492,6 +492,14 @@ POST LIST STYLING
 			font-size: 0.8em;
 		}
 
+    .meta {
+			color: lighten(black, 50%);
+			font-family: $sans-serif;
+			font-weight: 300;
+			font-size: 0.8em;
+      margin: 0;
+    }
+
 		h3 {
 			margin: 0 0 0.5em;
 		}

@@ -4,7 +4,8 @@ author: David Graeber and David Wengrow
 date: 2023-05-20 19:11:20
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

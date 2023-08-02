@@ -4,7 +4,8 @@ author: Annie Dillard
 date: 2023-05-28 22:30:13
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

@@ -4,7 +4,8 @@ author: Sascha Stronach
 date: 2023-07-03 18:54:32
 layout: post
 category: book
-tags: read 4-stars
+tags: read
+stars: 4
 draft: false
 ---
 

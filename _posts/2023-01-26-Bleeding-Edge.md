@@ -4,7 +4,8 @@ author: Thomas Pynchon
 date: 2023-01-26 04:33:10
 layout: post
 category: book
-tags: read 4-stars
+tags: read
+stars: 4
 draft: false
 ---
 

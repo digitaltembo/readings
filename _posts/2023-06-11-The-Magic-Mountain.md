@@ -4,7 +4,8 @@ author: Thomas Mann
 date: 2023-06-11 02:51:48
 layout: post
 category: book
-tags: read 4-stars
+tags: read
+stars: 4
 draft: false
 ---
 

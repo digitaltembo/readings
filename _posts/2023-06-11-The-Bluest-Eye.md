@@ -4,7 +4,8 @@ author: Toni Morrison
 date: 2023-06-11 02:26:46
 layout: post
 category: book
-tags: listened 5-stars
+tags: listened
+stars: 5
 draft: false
 ---
 

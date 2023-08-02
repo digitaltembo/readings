@@ -4,7 +4,8 @@ author: Miguel de Cervantes
 date: 2023-06-11 01:55:33
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

@@ -4,7 +4,8 @@ author: Homer
 date: 2023-05-28 22:29:41
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

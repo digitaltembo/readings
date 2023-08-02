@@ -4,7 +4,8 @@ author: E. M. Forster
 date: 2023-07-19 13:29:16
 layout: post
 category: book
-tags: listened 3-stars
+tags: listened
+stars: 3
 draft: false
 ---
 

@@ -4,7 +4,8 @@ author: Agatha Christie
 date: 2023-01-27 02:23:19
 layout: post
 category: book
-tags: read 4-stars
+tags: read
+stars: 4
 draft: false
 ---
 

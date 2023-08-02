@@ -4,7 +4,8 @@ author: William Faulkner
 date: 2022-11-09 02:17:16
 layout: post
 category: book
-tags: listened 3-stars
+tags: listened
+stars: 3
 draft: false
 ---
 

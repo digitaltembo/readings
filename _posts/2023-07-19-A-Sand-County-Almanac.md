@@ -4,7 +4,8 @@ author: Aldo Leopold
 date: 2023-07-19 13:28:45
 layout: post
 category: book
-tags: listened 4-stars
+tags: listened
+stars: 4
 draft: false
 ---
 

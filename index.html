@@ -12,9 +12,11 @@ title: Nolan Can Read
 			<h3>
 				<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
 			</h3>
+      <p class="meta">By {{ post.author }}</p>
+      <p class="meta">{{ post.stars | default: 0 | star_rating}}</p>
 			<p>
 				{%- if post.description -%}{{ post.description }}{%- else -%}{{
-				post.excerpt | strip_html }}{%- endif -%}
+				post.excerpt | strip_html | truncatewords: 40 }}{%- endif -%}
 			</p>
 		</article>
 		{%- endfor -%}
