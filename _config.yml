@@ -15,6 +15,12 @@ markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
+mapping:
+  provider: openstreetmap
+  zoom: 10
+  dimensions:
+    width: 600
+    height: 400
 
 navigation:
   - title: Home
