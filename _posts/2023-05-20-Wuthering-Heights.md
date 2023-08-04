@@ -7,6 +7,7 @@ category: book
 tags: listened
 stars: 5
 draft: false
+mapping: England, UK, Europe
 ---
 
 I had to read this to better understand Hark! A Vagrant. And now I do! Everyone was so much more awful than I was expecting, and it kept getting worse. Great book

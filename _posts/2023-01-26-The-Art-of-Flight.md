@@ -7,6 +7,7 @@ category: book
 tags: read
 stars: 5
 draft: false
+mapping: Xalapa, Veracruz, Mexico, North America
 ---
 
 Part autobiography, part literary criticism. I was a bit skeptical at first, and maybe to a certain extent throughout the entirety - while most of it is beautifully wrought, there is a tendency for Pitol just to simply start listing off names and places and books and works of art. Worse than that, they are lists of names of which I recognized only a small amount, and read even less! So basically both pretentious and an insult to my intelligent wordliness. (Reading the translator's note at the back, I discovered that the description of a man he saw in a bar in Barcelona as "the little black princess of the heaths" was in fact a reference to the nineteenth century novel Das Haideprinzeßchen? Which has a German wikipedia page, but no English one.) Unlike, say, Terry Pratchett, this is not an easy read.

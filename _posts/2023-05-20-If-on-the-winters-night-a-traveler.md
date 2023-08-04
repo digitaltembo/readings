@@ -7,6 +7,7 @@ category: book
 tags: listened
 stars: 4
 draft: false
+mapping: Italy, Europe
 ---
 
 I was wondering a lot about greatness while reading this. I don't think Italo Calvino is one of the greats, but I do love what he does. There is something a bit Borgesian about this, maybe Kafkaesque or maybe a bit more delightfully Snicketesque, and I think Calvino almost earns his own adjectivification, but not quite. This is a series of beginnings, a collection of stories by an author that doesn't enjoy writing the ends, a love letter about reading and then on the contrarywise a bit about writing, like the man from Borges who determines to write Don Quixote or like the man from DFW who determines to make the ultimate entertainment or like the man from Nabokof who gets tangled in the endnotes of _Pale Fire_. All wrapped in a delightful second-person framing device of international intrique, conspiracy, and apocrypha.

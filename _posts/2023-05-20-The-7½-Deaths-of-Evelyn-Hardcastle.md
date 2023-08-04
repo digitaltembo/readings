@@ -7,6 +7,7 @@ category: book
 tags: read
 stars: 3
 draft: false
+mapping: England, UK, Europe
 ---
 
 Fun & funky pursuit of a killer and pursuite of the killt, whodunnit and also just whatdunandwen, little bit of Christie and a little bit of Groundhog day, and a little bit of (frankly, somewhat cumbersome) sci-fi oddity. That frame though allows for a novel premise and take on the classic dinner-party-and-a-murder that entertains and engrosses.

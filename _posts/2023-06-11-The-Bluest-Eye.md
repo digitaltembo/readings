@@ -7,6 +7,7 @@ category: book
 tags: listened
 stars: 5
 draft: false
+mapping: NY, USA, North America
 ---
 
 Toni Morrison is perhaps the most powerful writer.
