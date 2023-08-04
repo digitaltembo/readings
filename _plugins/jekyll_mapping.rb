@@ -48,8 +48,7 @@ module Jekyll
         end
     end
 
-    class MapIndexTag < Liquid::Tag
-        
+    class MapIndexTag < Liquid::Block
         def initialize(tag_name, text, tokens)
             @data = Jekyll.configuration({})['mapping']
             @engine = @data['provider']
@@ -83,6 +82,7 @@ module Jekyll
         end
         
         def render(context)
+            raw_marker = super
             posts = []
             if @categories
                 for cat in @categories
@@ -100,11 +100,17 @@ module Jekyll
                     (post.data['mapping'].has_key?('latitude') && post.data['mapping'].has_key?('longitude'))
                 )
                     postinfo = post.data.clone()
+
                     if Jekyll.configuration({})['baseurl']
                         pogstinfo['link'] = "#{Jekyll.configuration({})['baseurl']}#{post.url.chars.first == "/" ? post.url[1..-1] : post.url}"
                     else
                         postinfo['link'] = post.url
                     end
+                    symbolic_info = {}
+                    postinfo.each do |key, value|
+                        symbolic_info[key.to_sym] = value
+                    end
+                    postinfo['marker_content']  = raw_marker % symbolic_info
                     if post.data['mapping'].is_a?(String) && lookup_location(postinfo, context.registers[:site], post.data['mapping'])
                       @data['pages'] << postinfo
                     else
@@ -173,7 +179,7 @@ module Jekyll
                 "https://nominatim.openstreetmap.org/search?email=#{EMAIL}&format=json&q=" + name,
                 "User-Agent" => "jekyll-maps.rb/#{EMAIL}"
             ).read)
-            
+
             if results && results[0] && results[0].has_key?('lat') && results[0].has_key?('lon')
                 puts "Found location #{name} #{results[0]}"
                 loc_data['latitude'] = results[0]['lat']
