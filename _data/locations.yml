@@ -1,0 +1,193 @@
+---
+North America:
+  USA:
+    MS:
+      Lafayette County:
+        latitude: '34.3519035'
+        longitude: "-89.4664677"
+      latitude: '32.9715285'
+      longitude: "-89.7348497"
+    NY:
+      latitude: '43.1561681'
+      longitude: "-75.8449946"
+    Virginia:
+      latitude: '37.1232245'
+      longitude: "-78.4927721"
+    MA:
+      Walden:
+        latitude: '41.5612048'
+        longitude: "-74.1884806"
+      latitude: '42.3788774'
+      longitude: "-72.032366"
+    New Mexico:
+      latitude: '34.5708167'
+      longitude: "-105.993007"
+    Wisconsin:
+      latitude: '44.4308975'
+      longitude: "-89.6884637"
+    Colorado:
+      latitude: '38.7251776'
+      longitude: "-105.607716"
+    latitude: '39.7837304'
+    longitude: "-100.445882"
+    Utah:
+      latitude: '39.4225192'
+      longitude: "-111.714358"
+  Mexico:
+    Veracruz:
+      Xalapa:
+        latitude: '19.5408338'
+        longitude: "-96.9146374"
+      latitude: '19.333333'
+      longitude: "-96.666667"
+    latitude: '23.6585116'
+    longitude: "-102.0077097"
+  Canada:
+    Nova Scotia:
+      latitude: '45.1960403'
+      longitude: "-63.1653789"
+    latitude: '61.0666922'
+    longitude: "-107.991707"
+  latitude: '51.0000002'
+  longitude: "-109"
+Europe:
+  UK:
+    England:
+      latitude: '52.5310214'
+      longitude: "-1.2649062"
+    latitude: '54.7023545'
+    longitude: "-3.2765753"
+    Scotland:
+      latitude: '56.7861112'
+      longitude: "-4.1140518"
+  Ireland:
+    latitude: '52.865196'
+    longitude: "-7.9794599"
+    Dublin:
+      latitude: '53.3493795'
+      longitude: "-6.2605593"
+  Greece:
+    latitude: '38.9953683'
+    longitude: '21.9877132'
+  Italy:
+    latitude: '42.6384261'
+    longitude: '12.674297'
+  Spain:
+    latitude: '39.3260685'
+    longitude: "-4.8379791"
+  Germany:
+    Munich:
+      latitude: '48.1371079'
+      longitude: '11.5753822'
+    latitude: '51.1638175'
+    longitude: '10.4478313'
+  latitude: '51'
+  longitude: '10'
+  Czech Republic:
+    latitude: '49.7439047'
+    longitude: '15.3381061'
+    Prague:
+      latitude: '50.0874654'
+      longitude: '14.4212535'
+  Russia:
+    latitude: '64.6863136'
+    longitude: '97.7453061'
+  France:
+    latitude: '46.603354'
+    longitude: '1.8883335'
+    Paris:
+      latitude: '48.8534951'
+      longitude: '2.3483915'
+  Poland:
+    latitude: '52.215933'
+    longitude: '19.134422'
+  Austria:
+    latitude: '47.59397'
+    longitude: '14.12456'
+  Sweden:
+    latitude: '59.6749712'
+    longitude: '14.5208584'
+South America:
+  Venezuela:
+    latitude: '8.0018709'
+    longitude: "-66.1109318"
+  Argentina:
+    Buenos Aires:
+      latitude: "-34.6075682"
+      longitude: "-58.4370894"
+    latitude: "-34.9964963"
+    longitude: "-64.9672817"
+  latitude: "-21.0002179"
+  longitude: "-61.0006565"
+  Colombia:
+    latitude: '4.099917'
+    longitude: "-72.9088133"
+  Brazil:
+    latitude: "-10.3333333"
+    longitude: "-53.2"
+Asia:
+  Japan:
+    Tokyo:
+      latitude: '35.6840574'
+      longitude: '139.7744912'
+    latitude: '36.5748441'
+    longitude: '139.2394179'
+  Thailand:
+    Bangkok:
+      latitude: '13.7524938'
+      longitude: '100.4935089'
+    latitude: '14.8971921'
+    longitude: '100.83273'
+  latitude: '51.2086975'
+  longitude: '89.2343748'
+  China:
+    latitude: '35.000074'
+    longitude: '104.999927'
+  India:
+    latitude: '22.3511148'
+    longitude: '78.6677428'
+    New Delhi:
+      latitude: '28.6138954'
+      longitude: '77.2090057'
+    Mumbai:
+      latitude: '19.08157715'
+      longitude: '72.88662753964906'
+Oceania:
+  New Zealand:
+    Wellington:
+      latitude: "-41.2887953"
+      longitude: '174.7772114'
+    latitude: "-41.5000831"
+    longitude: '172.8344077'
+  latitude: "-12.7725835"
+  longitude: '173.7741688'
+  Australia:
+    latitude: "-24.7761086"
+    longitude: '134.755'
+Africa:
+  latitude: '11.5024338'
+  longitude: '17.7578122'
+  Malawi:
+    latitude: "-13.2687204"
+    longitude: '33.9301963'
+  Nigeria:
+    latitude: '9.6000359'
+    longitude: '7.9999721'
+Central America:
+  latitude: "-30.29284845"
+  longitude: '153.12561585745573'
+  Trinidad and Tobago:
+    latitude: '10.7466905'
+    longitude: "-61.0840075"
+  Mexico:
+    latitude: '19.3452223'
+    longitude: "-99.1494231"
+    Veracruz:
+      latitude: '18.80461935'
+      longitude: "-97.1846928065163"
+      Xalapa:
+        latitude: '19.5408338'
+        longitude: "-96.9146374"
+  Dominican Republic:
+    latitude: '19.0974031'
+    longitude: "-70.3028026"
