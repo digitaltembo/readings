@@ -17,7 +17,6 @@ plugins: [jekyll-paginate]
 paginate: 10
 mapping:
   provider: openstreetmap
-  zoom: 10
   dimensions:
     width: 600
     height: 400
@@ -29,3 +28,5 @@ navigation:
     url: /about
   - title: Authors
     url: /authors
+  - title: Map
+    url: /map
