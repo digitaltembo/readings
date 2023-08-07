@@ -20,6 +20,12 @@ mapping:
   dimensions:
     width: 600
     height: 400
+defaults:
+  - scope:
+      type: groups # select all category pages
+    values:
+      layout: list
+      permalink: /:category/
 
 navigation:
   - title: Home
