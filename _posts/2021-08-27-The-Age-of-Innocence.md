@@ -8,6 +8,7 @@ written: 1920
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical
 mapping: USA, North America
+gender: f
 ---

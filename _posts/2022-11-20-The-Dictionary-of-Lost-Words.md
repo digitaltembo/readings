@@ -8,6 +8,7 @@ written: 2020
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical language
 mapping: Australia, Oceania
+gender: f
 ---

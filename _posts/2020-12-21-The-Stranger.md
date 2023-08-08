@@ -8,6 +8,8 @@ written: 1942
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed philosophy philosophical-novel
 mapping: France, Europe
+translatedFrom: French
+gender: m
 ---

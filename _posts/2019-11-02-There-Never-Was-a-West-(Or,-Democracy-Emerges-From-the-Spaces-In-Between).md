@@ -8,6 +8,7 @@ written:
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction sociology history
 mapping: USA, North America
+gender: m
 ---

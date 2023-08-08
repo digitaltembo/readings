@@ -8,5 +8,7 @@ written: 2014
 stars: 2
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed spy assassin
+mapping: England, UK, Europe
+gender: m
 ---

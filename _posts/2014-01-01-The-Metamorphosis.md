@@ -8,6 +8,6 @@ written: 1915
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi
 mapping: Prague, Czech Republic, Europe
 ---

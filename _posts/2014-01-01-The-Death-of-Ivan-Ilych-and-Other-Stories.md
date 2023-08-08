@@ -8,6 +8,6 @@ written: 1886
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed short-stories
 mapping: Russia, Europe
 ---

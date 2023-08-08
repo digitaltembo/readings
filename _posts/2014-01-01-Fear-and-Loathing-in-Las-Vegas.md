@@ -8,6 +8,7 @@ written: 1971
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed humor
 mapping: USA, North America
+gender: m
 ---

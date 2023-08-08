@@ -8,6 +8,7 @@ written: 1916
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed bildungsroman semi-autobiographical
 mapping: Ireland, Europe
+gender: m
 ---

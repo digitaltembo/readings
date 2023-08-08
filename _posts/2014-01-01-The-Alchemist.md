@@ -8,6 +8,7 @@ written: 1988
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism
 mapping: Brazil, South America
+gender: m
 ---

@@ -8,5 +8,6 @@ written: 1837
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed Victorian
+mapping: England, UK, Europe
 ---

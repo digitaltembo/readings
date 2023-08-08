@@ -8,6 +8,7 @@ written: 2017
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi favorite novella
 mapping: USA, North America
+gender: f
 ---

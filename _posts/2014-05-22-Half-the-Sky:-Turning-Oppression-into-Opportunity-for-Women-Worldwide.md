@@ -8,6 +8,7 @@ written: 2008
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction sociology
 mapping: USA, North America
+gender: m
 ---

@@ -8,6 +8,6 @@ written: 1988
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed humor scifi
 mapping: England, UK, Europe
 ---

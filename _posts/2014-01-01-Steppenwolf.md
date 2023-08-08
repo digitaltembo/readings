@@ -9,4 +9,5 @@ stars: 5
 layout: post
 category: book
 tags: read unreviewed
+translatedFrom: German
 ---

@@ -4,9 +4,9 @@ author: Peter Matthiessen
 date: 2023-06-25 20:12:33
 layout: post
 category: book
-tags: listened
-draft: false
+tags: listened non-fiction adventure autobiography
 mapping: NY, USA, North America
+gender: m
 ---
 
 Reading this brought to mind Susan Sontag's _On Photography_, or at least what I remember of it/what I imagine it as saying, having read it a number of years ago. Not to say that they have anything in common or anything, but. What I imagine Sontag saying is something about the act of photography causing an incision between the realities of the viewer and the viewee. The photographer becomes the camera and the subject an object. What occurred to me reading this is that the same logic can apply just as well to writing about the act of photography - in examining photography, you loose the ability to do photography. This is a bit of a silly criticism of Sontag, but I think it points its finger towards ideas around non-fiction as a whole - writing about an experience, and especially planning to write about an experience, will color that experience, make it less Authentic.

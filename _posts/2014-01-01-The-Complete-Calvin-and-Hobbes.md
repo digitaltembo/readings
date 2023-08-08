@@ -8,6 +8,6 @@ written: 2005
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed comics
 mapping: USA, North America
 ---

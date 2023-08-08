@@ -8,6 +8,6 @@ written: 2004
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi historical
 mapping: England, UK, Europe
 ---

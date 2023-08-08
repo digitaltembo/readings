@@ -8,6 +8,7 @@ written: 1999
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: Canada, North America
+gender: m
 ---

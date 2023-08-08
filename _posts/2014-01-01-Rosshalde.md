@@ -10,4 +10,5 @@ layout: post
 category: book
 tags: read unreviewed
 mapping: Germany, Europe
+translatedFrom: German
 ---

@@ -8,6 +8,6 @@ written: 2009
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed short-stories humor
 mapping: USA, North America
 ---

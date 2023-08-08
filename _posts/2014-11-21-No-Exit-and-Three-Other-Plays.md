@@ -8,6 +8,7 @@ written: 1947
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed play philosophy
 mapping: Paris, France, Europe
+gender: m
 ---

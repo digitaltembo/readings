@@ -8,6 +8,6 @@ written: 1953
 stars: 0
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi
 mapping: USA, North America
 ---

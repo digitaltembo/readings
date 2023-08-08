@@ -8,6 +8,6 @@ written: 2007
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: England, UK, Europe
 ---

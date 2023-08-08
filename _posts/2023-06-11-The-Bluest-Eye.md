@@ -4,9 +4,8 @@ author: Toni Morrison
 date: 2023-06-11 02:26:46
 layout: post
 category: book
-tags: listened
+tags: listened historical
 stars: 5
-draft: false
 mapping: NY, USA, North America
 ---
 

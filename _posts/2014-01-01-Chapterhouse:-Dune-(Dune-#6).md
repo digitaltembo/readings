@@ -8,6 +8,7 @@ written: 1985
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi space-opera
 mapping: USA, North America
+gender: m
 ---

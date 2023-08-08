@@ -8,6 +8,6 @@ written: 1969
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi historical
 mapping: USA, North America
 ---

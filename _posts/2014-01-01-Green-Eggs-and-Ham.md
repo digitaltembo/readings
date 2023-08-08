@@ -8,6 +8,7 @@ written: 1960
 stars: 0
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed poetry
 mapping: USA, North America
+gender: m
 ---

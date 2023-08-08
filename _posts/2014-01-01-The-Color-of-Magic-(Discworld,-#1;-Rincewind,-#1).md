@@ -9,5 +9,5 @@ stars: 3
 layout: post
 category: book
 mapping: England, UK, Europe
-tags: read unreviewed
+tags: read unreviewed fantasy humor
 ---

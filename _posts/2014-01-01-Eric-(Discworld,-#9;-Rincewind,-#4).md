@@ -7,6 +7,6 @@ date: 2014-01-01
 written: 1990
 stars: 3
 layout: post
-category: book
+category: book fantasy humor
 tags: read unreviewed
 ---

@@ -8,6 +8,6 @@ written: 1986
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed humor fantasy
 mapping: England, UK, Europe
 ---

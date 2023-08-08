@@ -8,6 +8,6 @@ written: 1985
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction
 mapping: England, UK, Europe
 ---

@@ -8,6 +8,7 @@ written: 2015
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi fantasy
 mapping: USA, North America
+gender: f
 ---

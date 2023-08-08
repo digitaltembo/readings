@@ -55,6 +55,9 @@ Europe:
     England:
       latitude: '52.5310214'
       longitude: "-1.2649062"
+      London:
+        latitude: '51.5073359'
+        longitude: "-0.12765"
     latitude: '54.7023545'
     longitude: "-3.2765753"
     Scotland:
@@ -152,6 +155,12 @@ Asia:
     Mumbai:
       latitude: '19.08157715'
       longitude: '72.88662753964906'
+    Kolkata:
+      latitude: '22.5726459'
+      longitude: '88.3638953'
+  Nepal:
+    latitude: '28.1083929'
+    longitude: '84.0917139'
 Oceania:
   New Zealand:
     Wellington:

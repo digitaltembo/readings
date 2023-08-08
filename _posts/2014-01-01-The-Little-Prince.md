@@ -8,6 +8,7 @@ written: 1943
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed favorite
 mapping: France, Europe
+gender: m
 ---

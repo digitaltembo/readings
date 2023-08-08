@@ -8,6 +8,7 @@ written: 1599
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed play
 mapping: England, UK, Europe
+gender: m
 ---

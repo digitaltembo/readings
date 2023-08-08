@@ -8,6 +8,8 @@ written: 1994
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism
 mapping: Japan, Asia
+translatedFrom: Japanese
+gender: m
 ---

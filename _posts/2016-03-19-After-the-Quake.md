@@ -10,4 +10,5 @@ layout: post
 category: book
 tags: read unreviewed
 mapping: Japan, Asia
+translatedFrom: Japanese
 ---

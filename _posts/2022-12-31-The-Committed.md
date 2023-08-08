@@ -8,6 +8,6 @@ written: 2021
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed spy assassin
 mapping: USA, North America
 ---

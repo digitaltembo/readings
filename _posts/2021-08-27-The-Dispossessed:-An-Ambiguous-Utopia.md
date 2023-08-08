@@ -8,6 +8,6 @@ written: 1974
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi
 mapping: USA, North America
 ---

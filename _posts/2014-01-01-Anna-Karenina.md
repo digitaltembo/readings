@@ -9,4 +9,6 @@ stars: 3
 layout: post
 category: book
 tags: read unreviewed
+mapping: Russia, Europe
+gender: m
 ---

@@ -8,6 +8,7 @@ written: 1882
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed adventure pirates
 mapping: Scotland, UK, Europe
+gender: m
 ---

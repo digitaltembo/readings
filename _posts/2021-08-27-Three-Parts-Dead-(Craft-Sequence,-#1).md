@@ -8,6 +8,7 @@ written: 2012
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: USA, North America
+gender: m
 ---

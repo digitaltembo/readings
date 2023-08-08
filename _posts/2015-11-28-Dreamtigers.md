@@ -8,6 +8,7 @@ written: 1960
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed short-stories poetry
 mapping: Argentina, South America
+gender: m
 ---

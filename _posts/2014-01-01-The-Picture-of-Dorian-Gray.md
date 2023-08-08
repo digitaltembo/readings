@@ -8,5 +8,6 @@ written: 1890
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed humor
+mapping: England, UK, Europe
 ---

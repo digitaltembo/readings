@@ -10,4 +10,5 @@ layout: post
 category: book
 tags: read unreviewed
 mapping: Czech Republic, Europe
+gender: m
 ---

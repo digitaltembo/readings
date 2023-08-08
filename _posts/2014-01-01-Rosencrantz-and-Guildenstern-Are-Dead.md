@@ -8,6 +8,6 @@ written: 1966
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed play humor
 mapping: England, UK, Europe
 ---

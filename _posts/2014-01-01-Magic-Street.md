@@ -8,6 +8,6 @@ written: 2005
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed urban-fantasy fantasy
 mapping: USA, North America
 ---

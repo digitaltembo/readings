@@ -5,8 +5,7 @@ date: 2023-03-28 14:24:32
 layout: post
 category: book
 stars: 3
-tags: read
-draft: false
+tags: read scifi
 ---
 
 ## The Potter of Bones

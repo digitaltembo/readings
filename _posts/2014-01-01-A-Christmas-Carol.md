@@ -8,6 +8,7 @@ written: 1843
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed ghosts Victorian novella
 mapping: England, UK, Europe
+gender: m
 ---

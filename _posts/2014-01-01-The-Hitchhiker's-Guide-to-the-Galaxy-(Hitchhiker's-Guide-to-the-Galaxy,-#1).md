@@ -8,6 +8,6 @@ written: 1979
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi humor favorite
 mapping: England, UK, Europe
 ---

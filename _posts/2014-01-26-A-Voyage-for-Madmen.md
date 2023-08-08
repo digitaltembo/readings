@@ -8,6 +8,7 @@ written: 1997
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction sailing adventure
 mapping: USA, North America
+gender: m
 ---

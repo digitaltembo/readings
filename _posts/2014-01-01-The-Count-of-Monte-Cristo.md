@@ -8,6 +8,7 @@ written: 1844
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed adventure
 mapping: France, Europe
+gender: m
 ---

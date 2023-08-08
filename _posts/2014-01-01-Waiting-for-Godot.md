@@ -8,6 +8,7 @@ written: 1952
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed play
 mapping: Ireland, Europe
+gender: m
 ---

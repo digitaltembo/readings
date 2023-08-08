@@ -8,6 +8,7 @@ written: 1947
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed philosophy non-fiction
 mapping: Paris, France, Europe
+gender: f
 ---

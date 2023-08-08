@@ -8,6 +8,7 @@ written: -399
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed philosophy
 mapping: Greece, Europe
+translatedFrom: Ancient Greek
 ---

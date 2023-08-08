@@ -8,5 +8,6 @@ written: 2011
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy western
+mapping: Utah, USA, North America
 ---

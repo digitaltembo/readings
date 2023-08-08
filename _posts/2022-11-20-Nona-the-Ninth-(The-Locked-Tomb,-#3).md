@@ -8,6 +8,6 @@ written: 2022
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi necromancy
 mapping: New Zealand, Oceania
 ---

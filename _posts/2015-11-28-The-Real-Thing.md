@@ -7,6 +7,6 @@ date: 2015-11-28
 written: 1982
 stars: 3
 layout: post
-category: book
+category: book play
 tags: read unreviewed
 ---

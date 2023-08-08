@@ -4,9 +4,8 @@ author: Italo Calvino
 date: 2023-05-20 21:15:53
 layout: post
 category: book
-tags: listened
+tags: listened modern
 stars: 4
-draft: false
 mapping: Italy, Europe
 ---
 

@@ -8,6 +8,6 @@ written: 1993
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed western
 mapping: USA, North America
 ---

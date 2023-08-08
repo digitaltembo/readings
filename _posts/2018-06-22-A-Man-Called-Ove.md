@@ -7,4 +7,6 @@ layout: post
 category: book
 tags: read unreviewed
 mapping: Sweden, Europe
+translatedFrom: Swedish
+gender: m
 ---

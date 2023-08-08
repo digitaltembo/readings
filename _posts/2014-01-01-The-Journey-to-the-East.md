@@ -8,6 +8,7 @@ written: 1932
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed favorite
 mapping: Germany, Europe
+translatedFrom: German
 ---

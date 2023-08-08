@@ -8,6 +8,7 @@ written: 1944
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism short-stories
 mapping: Argentina, South America
+translatedFrom: Spanish
 ---

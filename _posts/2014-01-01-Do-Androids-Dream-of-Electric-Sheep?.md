@@ -8,6 +8,7 @@ written: 1968
 stars: 2
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi
 mapping: USA, North America
+gender: m
 ---

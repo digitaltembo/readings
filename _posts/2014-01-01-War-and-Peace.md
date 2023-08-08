@@ -8,6 +8,6 @@ written: 1867
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical
 mapping: Russia, Europe
 ---

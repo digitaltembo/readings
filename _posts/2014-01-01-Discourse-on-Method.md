@@ -8,6 +8,8 @@ written: 1637
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed philosophy
 mapping: France, Europe
+gender: m
+translatedFrom: French
 ---

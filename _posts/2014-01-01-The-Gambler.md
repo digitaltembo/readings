@@ -8,6 +8,6 @@ written: 1866
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed novella
 mapping: Russia, Europe
 ---

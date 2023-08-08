@@ -8,6 +8,8 @@ written: 1865
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi
 mapping: France, Europe
+gender: m
+translatedFrom: French
 ---

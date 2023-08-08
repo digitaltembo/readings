@@ -8,6 +8,6 @@ written: 1886
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed adventure historical
 mapping: Scotland, UK, Europe
 ---

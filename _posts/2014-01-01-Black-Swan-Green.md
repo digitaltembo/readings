@@ -8,6 +8,7 @@ written: 2006
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed bildungsroman
 mapping: England, UK, Europe
+gender: m
 ---

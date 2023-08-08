@@ -8,6 +8,7 @@ written: 1978
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed semi-autobiographical non-fiction
 mapping: USA, North America
+gender: m
 ---

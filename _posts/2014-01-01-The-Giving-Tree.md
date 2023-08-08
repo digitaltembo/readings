@@ -8,6 +8,7 @@ written: 1964
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed poetry
 mapping: USA, North America
+gender: m
 ---

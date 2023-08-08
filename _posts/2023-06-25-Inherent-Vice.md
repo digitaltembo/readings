@@ -4,9 +4,8 @@ author: Thomas Pynchon
 date: 2023-06-25 20:49:52
 layout: post
 category: book
-tags: listened
+tags: listened mystery
 stars: 3
-draft: false
 mapping: NY, USA, North America
 ---
 

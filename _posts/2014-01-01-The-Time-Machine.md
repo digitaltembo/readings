@@ -8,6 +8,6 @@ written: 1895
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi novella
 mapping: England, UK, Europe
 ---

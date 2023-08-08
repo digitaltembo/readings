@@ -8,5 +8,7 @@ written: 1972
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction philosophy art
+gender: m
+mapping: England, UK, Europe
 ---

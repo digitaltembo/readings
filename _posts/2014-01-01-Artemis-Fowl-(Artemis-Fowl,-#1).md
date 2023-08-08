@@ -8,6 +8,6 @@ written: 2001
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: Ireland, Europe
 ---

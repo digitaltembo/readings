@@ -8,6 +8,7 @@ written: 1985
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism
 mapping: Colombia, South America
+translatedFrom: Spanish
 ---

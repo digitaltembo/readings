@@ -8,6 +8,7 @@ written: 2005
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
-mapping: USA, North America
+tags: read unreviewed scifi
+mapping: England, UK, Europe
+gender: m
 ---

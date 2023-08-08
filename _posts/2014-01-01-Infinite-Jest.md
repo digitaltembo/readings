@@ -8,6 +8,7 @@ written: 1996
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi humor
 mapping: USA, North America
+gender: m
 ---

@@ -8,6 +8,7 @@ written: 2017
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed western
 mapping: USA, North America
+gender: m
 ---

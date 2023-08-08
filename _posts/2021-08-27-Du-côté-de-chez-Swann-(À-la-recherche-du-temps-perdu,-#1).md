@@ -10,4 +10,6 @@ layout: post
 category: book
 tags: read unreviewed
 mapping: France, Europe
+translatedFrom: French
+gender: m
 ---

@@ -9,4 +9,6 @@ stars: 4
 layout: post
 category: book
 tags: read unreviewed
+mapping: Kolkata, India, Asia
+gender: m
 ---

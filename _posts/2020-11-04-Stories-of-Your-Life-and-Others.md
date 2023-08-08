@@ -8,6 +8,7 @@ written: 2002
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi short-stories
 mapping: USA, North America
+gender: m
 ---

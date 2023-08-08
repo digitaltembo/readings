@@ -8,6 +8,6 @@ written: 1968
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed short-stories
 mapping: USA, North America
 ---

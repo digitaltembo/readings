@@ -4,9 +4,8 @@ author: Agatha Christie
 date: 2023-01-27 02:23:19
 layout: post
 category: book
-tags: read
+tags: read mystery
 stars: 4
-draft: false
 mapping: England, UK, Europe
 ---
 

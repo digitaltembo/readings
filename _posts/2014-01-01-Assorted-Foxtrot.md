@@ -8,6 +8,7 @@ written: 2000
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed comics
 mapping: USA, North America
+gender: m
 ---

@@ -8,6 +8,8 @@ written: 1967
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism favorite best
 mapping: Colombia, South America
+gender: m
+translatedFrom: Spanish
 ---

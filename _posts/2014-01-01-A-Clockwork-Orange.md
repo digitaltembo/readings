@@ -8,6 +8,7 @@ written: 1962
 stars: 2
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi dystopia novella
 mapping: England, UK, Europe
+gender: m
 ---

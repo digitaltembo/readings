@@ -8,6 +8,7 @@ written: 2002
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed magical-realism
 mapping: Japan, Asia
+translatedFrom: Japanese
 ---

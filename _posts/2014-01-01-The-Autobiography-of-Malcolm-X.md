@@ -8,6 +8,7 @@ written: 1965
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction autobiography
 mapping: USA, North America
+gender: m
 ---

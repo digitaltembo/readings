@@ -8,6 +8,7 @@ written: 2009
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction autobiography
 mapping: Malawi, Africa
+gender: m
 ---

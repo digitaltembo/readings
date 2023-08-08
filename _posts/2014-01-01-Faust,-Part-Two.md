@@ -8,6 +8,7 @@ written: 1832
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed play poem
 mapping: Germany, Europe
+translatedFrom: German
 ---

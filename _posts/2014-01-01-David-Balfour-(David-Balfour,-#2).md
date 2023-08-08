@@ -8,6 +8,7 @@ written: 1893
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical adventure
 mapping: Scotland, UK, Europe
+gender: m
 ---

@@ -11,4 +11,5 @@ category: book
 tags: read unreviewed
 # kind of hard to track down where Conrad lived
 mapping: England, UK, Europe
+gender: m
 ---

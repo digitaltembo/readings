@@ -8,6 +8,7 @@ written: 1987
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi humor
 mapping: England, UK, Europe
+gender: m
 ---

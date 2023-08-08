@@ -8,6 +8,7 @@ written: 250
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed philosophy
 mapping: India, Asia
+gender: m
 ---

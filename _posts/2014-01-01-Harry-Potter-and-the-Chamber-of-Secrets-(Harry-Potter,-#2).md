@@ -8,6 +8,7 @@ written: 1998
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: England, UK, Europe
+gender: f
 ---

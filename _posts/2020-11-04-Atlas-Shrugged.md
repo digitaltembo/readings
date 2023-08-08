@@ -8,6 +8,6 @@ written: 1957
 stars: 2
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
 mapping: USA, North America
 ---

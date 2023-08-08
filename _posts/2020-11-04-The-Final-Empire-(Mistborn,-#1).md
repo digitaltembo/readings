@@ -8,6 +8,7 @@ written: 2006
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed fantasy
+gender: m
 mapping: Utah, USA, North America
 ---

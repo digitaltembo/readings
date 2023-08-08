@@ -8,6 +8,7 @@ written: 2003
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed non-fiction history
 mapping: USA, North America
+gender: m
 ---

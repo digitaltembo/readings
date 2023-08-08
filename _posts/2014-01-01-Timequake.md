@@ -8,6 +8,6 @@ written: 1997
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed scifi humor
 mapping: USA, North America
 ---

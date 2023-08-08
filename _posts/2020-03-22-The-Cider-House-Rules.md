@@ -8,6 +8,6 @@ written: 1985
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical
 mapping: USA, North America
 ---

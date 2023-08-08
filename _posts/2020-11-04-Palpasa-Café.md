@@ -8,5 +8,7 @@ written: 2005
 stars: 3
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed historical
+mapping: Nepal, Asia
+gender: m
 ---

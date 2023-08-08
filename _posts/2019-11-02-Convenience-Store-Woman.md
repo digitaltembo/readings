@@ -8,6 +8,8 @@ written: 2016
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed favorite novella
 mapping: Japan, Asia
+translatedFrom: Japanese
+gender: f
 ---

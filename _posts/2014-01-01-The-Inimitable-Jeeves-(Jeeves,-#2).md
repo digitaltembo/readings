@@ -8,6 +8,6 @@ written: 1923
 stars: 4
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed humor
 mapping: England, UK, Europe
 ---
