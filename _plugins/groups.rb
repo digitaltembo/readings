@@ -5,18 +5,29 @@ module SamplePlugin
     def generate(site)
       make_cat(site, 'author') {|post| post.data["author"]}
       make_cat(site, 'stars') {|post| (post.data["stars"] || 0).to_s}
+      make_cat(site, 'tags') {|post| post.data["tags"]}
     end
 
     def make_cat(site, cat_name, &categorizer)
       distinct_cats = []
       site.posts.docs.each do |post|
-        cat = categorizer.call(post)
-        if cat && !distinct_cats.include?(cat)
-          distinct_cats.push(cat)
+        cats = categorizer.call(post)
+        if cats
+          if ! cats.is_a? Array
+            cats = [cats]
+          end
+          cats.each do |cat|
+            if !distinct_cats.include?(cat)
+              distinct_cats.push(cat)
+            end
+          end
         end
       end
       distinct_cats.each do |cat|
-        posts = site.posts.docs.select {|post| categorizer.call(post) == cat}
+        posts = site.posts.docs.select do |post| 
+          cats = categorizer.call(post)
+          cats.is_a?(Array) ? (cats.include? cat) : cats == cat
+        end 
         site.pages << GroupPage.new(site, cat_name, cat.gsub(' ', '-'), posts)
       end
     end
