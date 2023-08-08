@@ -6,6 +6,23 @@ module SamplePlugin
       make_cat(site, 'author') {|post| post.data["author"]}
       make_cat(site, 'stars') {|post| (post.data["stars"] || 0).to_s}
       make_cat(site, 'tags') {|post| post.data["tags"]}
+
+      auth_gender = {}
+      site.posts.docs.each do |post|
+        if post.data["gender"] && ! auth_gender.has_key?(post.data["author"])
+          auth_gender[post.data["author"]] = post.data["gender"]
+        end
+      end
+      make_cat(site, 'tags') do |post|
+        case auth_gender[post.author]
+        when 'm'
+          'male-author'
+        when 'f'
+          'female-author'
+        else
+          'unknown-gender'
+        end
+      end
     end
 
     def make_cat(site, cat_name, &categorizer)
