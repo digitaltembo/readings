@@ -52,14 +52,15 @@ module SamplePlugin
         posts.each_slice(per_page).with_index do |paginated_posts, index| 
           total_pages = (posts.length.to_f / per_page).ceil
 
+
           site.pages << GroupPage.new(site, cat_name, cat, {
             'page' => index + 1,
             'per_page' => per_page,
             'posts' => paginated_posts,
             'total_posts' => posts.length(),
             'total_pages' => total_pages,
-            'previous_page' => index > 0 ? index - 1 : nil,
-            'next_page' => index < (total_pages - 1) ? index + 1 : nil
+            'previous_page' => index > 1 ? index : nil,
+            'next_page' => index < (total_pages - 2) ? index + 2 : nil
           })
         end
       end
@@ -68,6 +69,7 @@ module SamplePlugin
 
   # Subclass of `Jekyll::Page` with custom method definitions.
   class GroupPage < Jekyll::Page
+    PAGE_LINK_DELTA_COUNT = 3
     def page_path(page)
       if page == 1
         return 'index'
@@ -95,7 +97,21 @@ module SamplePlugin
         pagination['previous_page_path'] = page_path(pagination['previous_page']) + @ext
       end
 
-      puts "-> #{@dir}/#{@name}"
+      links = (1..pagination["total_pages"]).map do |page|
+        if page == pagination["page"]
+          {"current" => page }
+        elsif page == 1 || page == pagination["total_pages"] || (pagination["page"] - page).abs < PAGE_LINK_DELTA_COUNT
+          {"url" => page_path(page) + @ext, "label" => page}
+        else
+          "..."
+        end
+      end
+      pagination["page_links"] = links.filter_map.with_index {|link, i| 
+        link if !(link == "..." && links[i - 1] == "...")
+      }
+
+
+
       
       # Initialize data hash with a key pointing to all posts under current group.
       # This allows accessing the list in a template via `page.linked_docs`.
