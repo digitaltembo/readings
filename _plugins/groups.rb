@@ -1,6 +1,10 @@
 require 'enumerator'
 
-module SamplePlugin
+module Groups
+  def simple_slug(text)
+    text.gsub(' ', '-').gsub('.', '')
+  end
+  
   class CategoryPageGenerator < Jekyll::Generator
     safe true
     
@@ -78,6 +82,7 @@ module SamplePlugin
 
   # Subclass of `Jekyll::Page` with custom method definitions.
   class GroupPage < Jekyll::Page
+    include Groups
     PAGE_LINK_DELTA_COUNT = 3
     def page_path(page)
       if page == 1
@@ -91,7 +96,7 @@ module SamplePlugin
       @site = site               # the current site instance.
       @base = site.source        # path to the source directory.
       # @dir  = "#{type}/#{group.gsub(' ', '-').gsub('.', '')}#{pagination['page'] > 0 ? '/' + pagination['page'].to_s : ''}" # the directory the page will reside in.
-      @dir  = "#{type}/#{group.gsub(' ', '-').gsub('.', '')}/" # the directory the page will reside in.
+      @dir  = "#{type}/#{simple_slug(group)}/" # the directory the page will reside in.
 
       # All pages have the same filename, so define attributes straight away.
       @basename = page_path(pagination["page"])# 'index'   # filename without the extension.
@@ -147,3 +152,5 @@ module SamplePlugin
     end
   end
 end
+
+Liquid::Template.register_filter(Groups)
