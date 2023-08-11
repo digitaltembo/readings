@@ -2,21 +2,38 @@
 layout: default
 title: Nolan Can Read
 ---
-<div class="home" id="home">
-	<div class="posts noList">
-		{%- for post in page.linked_docs -%}
-		<article>
-			<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-			<h3>
-				<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-			</h3>
-      <p class="meta">By {{ post.author }}</p>
-      <p class="meta">{{ post.stars | default: 0 | star_rating}}</p>
-			<p>
-				{%- if post.description -%}{{ post.description }}{%- else -%}{{
-				post.excerpt | strip_html | truncatewords: 40 }}{%- endif -%}
-			</p>
-		</article>
-		{%- endfor -%}
-	</div>
+<div class="posts noList">
+  <h1 class="pageTitle">{{ page.title }}</h1>
+
+  {%- for post in page.paginator.posts -%}
+  <article>
+    <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+    <h3>
+      <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <p class="meta">By {{ post.author }}</p>
+    <p class="meta">{{ post.stars | default: 0 | star_rating}}</p>
+    <p>
+      {%- if post.description -%}{{ post.description }}{%- else -%}{{
+      post.excerpt | strip_html | truncatewords: 40 }}{%- endif -%}
+    </p>
+  </article>
+  {%- endfor -%}
+</div>
+<!-- Pagination links -->
+<div class="pagination">
+  {%- if page.paginator.previous_page -%}
+  <a
+    href="{{ page.paginator.previous_page_path }}"
+    class="previous button__outline"
+    >Newer Posts</a
+  >
+  {%- endif -%} 
+  <span class="page-number">
+    {{ page.paginator.page }} / {{ page.paginator.total_pages }}
+  </span>{%- if page.paginator.next_page -%}
+  <a href="{{ page.paginator.next_page_path }}" class="next button__outline"
+    >Older Posts</a
+  >
+  {%- endif -%}
 </div>

@@ -28,7 +28,10 @@ title: Nolan Can Read
 			class="previous button__outline"
 			>Newer Posts</a
 		>
-		{%- endif -%} {%- if paginator.next_page -%}
+		{%- endif -%} 
+    <span class="page-number">
+      {{ paginator.page }} / {{ paginator.total_pages }}
+    </span>{%- if paginator.next_page -%}
 		<a href="{{ paginator.next_page_path }}" class="next button__outline"
 			>Older Posts</a
 		>
