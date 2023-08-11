@@ -9,6 +9,15 @@ module SamplePlugin
       make_cat(site, 'stars') {|post| (post.data["stars"] || 0).to_s}
       make_cat(site, 'tags') {|post| post.data["tags"]}
 
+      make_cat(site, 'loc') do |post|
+        if post.data["mapping"]
+          locs = post.data["mapping"].split(",").reverse.filter_map{|l| l.strip()}
+          (0..locs.length - 1).map{|i| (0..i).map{|j| locs[j]}.join("/")}
+        else
+          []
+        end
+      end
+
       auth_gender = {}
       site.posts.docs.each do |post|
         if post.data["gender"] && ! auth_gender.has_key?(post.data["author"])
@@ -49,7 +58,7 @@ module SamplePlugin
           cats.is_a?(Array) ? (cats.include? cat) : cats == cat
         end
 
-        posts.each_slice(per_page).with_index do |paginated_posts, index| 
+        posts.sort_by{|post|post.data["date"]}.reverse.each_slice(per_page).with_index do |paginated_posts, index| 
           total_pages = (posts.length.to_f / per_page).ceil
 
 
