@@ -161,6 +161,9 @@ Asia:
   Nepal:
     latitude: '28.1083929'
     longitude: '84.0917139'
+  South Korea:
+    latitude: '36.638392'
+    longitude: '127.6961188'
 Oceania:
   New Zealand:
     Wellington:
@@ -182,6 +185,9 @@ Africa:
   Nigeria:
     latitude: '9.6000359'
     longitude: '7.9999721'
+  Martinique:
+    latitude: '14.6367927'
+    longitude: "-61.01582685063731"
 Central America:
   latitude: "-30.29284845"
   longitude: '153.12561585745573'
@@ -200,3 +206,6 @@ Central America:
   Dominican Republic:
     latitude: '19.0974031'
     longitude: "-70.3028026"
+  Martinique:
+    latitude: '14.6367927'
+    longitude: "-61.01582685063731"
