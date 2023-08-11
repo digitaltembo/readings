@@ -12,7 +12,14 @@ module Groups
       make_cat(site, 'author') {|post| post.data["author"]}
       make_cat(site, 'stars') {|post| (post.data["stars"] || 0).to_s}
       make_cat(site, 'tags') {|post| post.data["tags"]}
-
+      make_cat(site, 'date') do |post|
+        if post.data["written"]
+          d = post.data["written"]
+          ["#{d / 100 + 1}c", "#{(d / 10) * 10}s", d.to_s]
+        else
+          []
+        end
+      end
       make_cat(site, 'loc') do |post|
         if post.data["mapping"]
           locs = post.data["mapping"].split(",").reverse.filter_map{|l| l.strip()}
