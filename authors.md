@@ -13,21 +13,23 @@ permalink: /authors
 {% endfor %}
 {% assign authors = all_authors | uniq | sort %}
 
-<ul>
+<ul class="tree" style="columns: 2;">
   {% for author in authors %}
-    <li>{{ author }}</li>
-    <ul>
-      {% for post in site.posts %}
-        {% if post.author == author %} 
-          <li>
-            <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    <li>
+      <details>
+        <summary><a href="/author/{{author | simple_slug }}">{{ author }}</a></summary>
+        <ul>
+          {% for post in site.posts %}
+            {% if post.author == author %} 
+              <li>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </details>
+    </li>
   {% endfor %}
 </ul>
