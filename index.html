@@ -7,7 +7,12 @@ title: Nolan Can Read
 	<div class="posts noList">
 		{%- for post in paginator.posts -%}
 		<article>
-			<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+			<span class="date">
+        {{ post.date | date: '%B %d, %Y' }}
+        <span class="tags">
+          {{ post.tags | tag_icons }}
+        </span>
+      </span>
 			<h3>
 				<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
 			</h3>
