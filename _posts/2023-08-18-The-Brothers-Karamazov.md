@@ -16,9 +16,9 @@ I got into, started studying and eventually made a career out of computer progra
 
 This is a bit of a non-sequitor, I acknowledge, but is illustrative of the perspective I hold on art and beauty, establishing background for my next claim: I think The Brother's Karamazov might be, after all of these years, my favorite novel, my favorite piece of art. The story is so compelling, so philosophically, psychologically, sociologically charged, and everyone in it, every person in it is such a storm of emotions, complex, turbulent, swirling, ablaze.
 
-There are better writers out there; Nabokov, Joyce, García Márquez. Morrison writes more powerfullly of trauma. I think Ulysses might be a perfect novel, perfectly realist, humanist, humane. The Brother's Karamzov is not realist, it is saturated with color and form beyond what makes sense, but it captures what I think it is to be
+There are better writers out there; [Nabokov](/author/Vladimir-Nabokov/), [Joyce](/author/James-Joyce/), [García Márquez](/author/Gabriel-García-Márquez/). [Morrison](/author/Toni-Morrison) writes more powerfullly of trauma. I think [_Ulysses_](/blog/Ulysses/) might be a perfect novel, perfectly realist, humanist, humane. The Brother's Karamzov is not realist, it is saturated with color and form beyond what makes sense, but it captures what I think it is to be
 
-In Hesse's Rosshalde, Hesse describes our relationships with ancient works of (painted) art:
+In [Hesse](/author/Hermann-Hesse/)'s [_Rosshalde_](/blog/Rosshalde/), Hesse describes our relationships with ancient works of (painted) art:
 
 > From the works of dead masters, over-life-sized strangers whose names we do not know and do not wish to know look out at us enigmatically as symbols of all being.
 
