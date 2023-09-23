@@ -8,7 +8,7 @@ category: book
 tags: read non-fiction autobiography art
 stars: 4
 mapping: Xalapa, Veracruz, Mexico, Central America
-translatedFrom: Spanis
+translatedFrom: Spanish
 ---
 
 I mean, a personal predilection for just a little bit of pretension, for the fluency with literature and the literati, definitely does have an impact on my opinion of Sergio Pitol - lists of names and works and influences and times that are not known to me make me a bit jealous and admiring. I think without a little bit of that, you could get a bit fed up with this book and likely the whole of his Trilogy of Memory - although how you have gotten past [The Art of Flight](/blog/The-Art-of-Flight/) to this sequel is a bit beyond me.
