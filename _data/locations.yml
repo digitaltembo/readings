@@ -33,6 +33,9 @@ North America:
     Utah:
       latitude: '39.4225192'
       longitude: "-111.714358"
+    VT:
+      latitude: '44.5990718'
+      longitude: "-72.5002608"
   Mexico:
     Veracruz:
       Xalapa:
@@ -128,6 +131,9 @@ South America:
   Brazil:
     latitude: "-10.3333333"
     longitude: "-53.2"
+  Guyana:
+    latitude: '4.8417097'
+    longitude: "-58.6416891"
 Asia:
   Japan:
     Tokyo:
