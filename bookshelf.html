@@ -1,0 +1,20 @@
+---
+layout: default
+title: Nolan Can Read
+---
+<div class="bookshelf">
+  {%- for post in site.posts -%}
+  
+    <a class="book" href="{{ post.url }}" style="background-color: {{ "darkblue darkgreen darkred" | split: " " | sample}}">
+      <div class="author">
+        {{ post.author }}
+      </div>
+      <div class="title">
+        {{ post.title }}
+      </div>
+      <div class="rating">
+        {{ post.stars | default: 0 | star_rating}}
+      </div>
+    </a>
+  {%- endfor -%}
+</div>

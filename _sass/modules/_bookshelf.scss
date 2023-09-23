@@ -1,0 +1,57 @@
+.bookshelf {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-end;
+  font-size: 14px;
+  .book {
+    color: yellow;
+    writing-mode: vertical-lr;
+    box-shadow: inset 5px 0px 31px 0px rgba(0, 0, 0, 0.75);
+    padding: 16px;
+    border-radius: 3px;
+    transition: transform 100ms;
+    transform-style: preserve-3d;
+    transform-origin: 0 140%;
+    cursor: pointer;
+    text-decoration: none;
+    position: relative;
+    z-index: 2;
+    transform: rotateY(-5deg) rotateX(-5deg);
+    &:hover {
+      transform: rotateY(-5deg) rotateX(-25deg);
+    }
+
+    &::before {
+      position: absolute;
+      background: peachpuff;
+      content: "";
+      transform: translate(-16px, -16px) rotateX(-90deg);
+      transform-origin: top;
+      width: 100%;
+      height: 300px;
+      box-shadow: inset 5px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    }
+
+    &::after {
+      width: 300px;
+      height: 100%;
+      content: "";
+      position: absolute;
+      display: block;
+      background: darkred;
+      transform: translate(16px, -16px) rotateY(90deg);
+      transform-origin: left bottom;
+      z-index: 1;
+      transition: transform 100ms;
+      box-shadow: inset 5px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    }
+    .author {
+      font-weight: bold;
+    }
+    .rating {
+      display: none;
+    }
+  }
+}
