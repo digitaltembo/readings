@@ -11,3 +11,20 @@ title: Nolan Can Read a Map
 <ul class="tree">
   {% location_tree %}
 </ul>
+
+<h2>Stars</h2>
+<ol class="bar-chart">
+  {% assign ratings = "0 1 2 3 4 5" | split: " " %}
+  {% for rating in ratings %}
+    {% assign count = site.posts | where: "stars", rating | size %}
+    <li>
+      <span class="label">{{rating}}</span>
+      <a 
+        class="data"
+        href="/stars/{{rating}}" 
+        style="--size: calc( {{count}}% / 3 )"
+        title="{{count}}"
+      >{{ count }}</a>
+    </li>
+  {% endfor %}
+</ol>
