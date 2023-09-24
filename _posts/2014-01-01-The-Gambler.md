@@ -10,4 +10,5 @@ layout: post
 category: book
 tags: read unreviewed novella
 mapping: Russia, Europe
+translatedFrom: Russian
 ---

@@ -11,5 +11,5 @@ layout: post
 category: book
 tags: read unreviewed scifi
 mapping: France, Europe
-translatedFrom: french
+translatedFrom: French
 ---

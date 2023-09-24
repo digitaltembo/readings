@@ -10,13 +10,14 @@ layout: post
 category: book
 tags: read listened favorite best
 mapping: Russia, Europe
+translatedFrom: Russian
 ---
 
 I got into, started studying and eventually made a career out of computer programming because first I wanted to make clouds. The wispy vortices, plastic and mutable at a timescale just longer than that which is immediately perceptible, seemed the height of beauty and therefore the height of art.
 
 This is a bit of a non-sequitur, I acknowledge, but is illustrative of the perspective I hold on art and beauty, establishing background for my next claim: I think The Brother's Karamazov might be, after all of these years, my favorite novel, my favorite piece of art. The story is so compelling, so philosophically, psychologically, sociologically charged, and everyone in it, every person in it is such a storm of emotions, complex, turbulent, swirling, ablaze.
 
-There are better writers out there; [Nabokov](/author/Vladimir-Nabokov/), [Joyce](/author/James-Joyce/), [García Márquez](/author/Gabriel-García-Márquez/). [Morrison](/author/Toni-Morrison) writes more powerfullly of trauma. I think [_Ulysses_](/blog/Ulysses/) might be a perfect novel, perfectly realist, humanist, humane. The Brother's Karamzov is not realist, it is saturated with color and form beyond what makes sense, but it captures what I think it is to be
+There are better writers out there; [Nabokov](/author/Vladimir-Nabokov/), [Joyce](/author/James-Joyce/), [García Márquez](/author/Gabriel-García-Márquez/). [Morrison](/author/Toni-Morrison) writes more powerfully of trauma. I think [_Ulysses_](/blog/Ulysses/) might be a perfect novel, perfectly realist, humanist, humane. The Brother's Karamzov is not realist, it is saturated with color and form beyond what makes sense, but it captures what I think it is to be
 
 In [Hesse](/author/Hermann-Hesse/)'s [_Rosshalde_](/blog/Rosshalde/), Hesse describes our relationships with ancient works of (painted) art:
 

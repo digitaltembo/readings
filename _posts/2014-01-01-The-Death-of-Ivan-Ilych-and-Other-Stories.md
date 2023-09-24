@@ -10,4 +10,5 @@ layout: post
 category: book
 tags: read unreviewed short-stories
 mapping: Russia, Europe
+translatedFrom: Russian
 ---

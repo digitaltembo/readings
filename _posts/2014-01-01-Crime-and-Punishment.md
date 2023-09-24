@@ -11,4 +11,5 @@ category: book
 tags: read unreviewed
 mapping: Russia, Europe
 gender: m
+translatedFrom: Russian
 ---

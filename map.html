@@ -12,30 +12,83 @@ title: Nolan Can Read a Map
   {% location_tree %}
 </ul>
 
-<h2>Stars</h2>
-<ol class="bar-chart">
-  {% assign ratings = "0 1 2 3 4 5" | split: " " %}
-  {% for rating in ratings %}
-    {% assign count = site.posts | where: "stars", rating | size %}
-    <li>
-      <span class="label">{{rating}}</span>
-      <a 
-        class="data"
-        href="/stars/{{rating}}" 
-        style="--size: calc( {{count}}% / 3 )"
-        title="{{count}} {{rating}}-star reviews"
-      >{{ count }}</a>
-    </li>
-  {% endfor %}
-</ol>
 
 {% assign tags = '' | split: ',' %}
-
+{% assign female = '' | split: ',' %}
+{% assign male = '' | split: ',' %}
+{% assign languages = '' | split: ',' %}
 {% for post in site.posts %}
-    {% assign postTags = post.tags | split: ' ' %}
-    {% assign tags = tags | concat: post.tags %}
+  {% if post.gender == 'm' %}
+    {% assign male = male | push: post.author %}
+  {% elsif post.gender == 'f' %}
+    {% assign female = female | push: post.author %}
+  {% endif %}
+  {% if post.translatedFrom %}
+    {% assign languages = languages | push: post.translatedFrom %}
+  {% endif %}
+
+  {% assign postTags = post.tags | split: ' ' %}
+  {% assign tags = tags | concat: post.tags %}
 {% endfor %}
+
 {% assign tags = tags | uniq | sort %}
+{% assign languages = languages | uniq | sort %}
+<div class="charts">
+
+  <h2>Translations</h2>
+  <h2>Author Gender</h2>
+  <h2>Stars</h2>
+</div>
+<div class="charts">
+  <div>
+    <ol class="bar-chart">
+      {% for language in languages %}
+        {% assign count = site.posts | where: "translatedFrom", language | size %}
+        <li>
+          <span class="label" style="width: 90px; font-size: 14px;">{{language}}</span>
+          <a 
+            class="data"
+            href="/language/{{language | simple_slug }}" 
+            style="--size: calc(100% * {{count}} / 50 )"
+            title="{{count}} translations from {{language}}"
+          >{{ count }}</a>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+  <div>
+    <div class="pie-chart" style="--left: calc(100% *{{male | size}} / ({{male | size}} + {{female | size}}))">
+      <a 
+      class="data"
+      href="/tags/female-author" 
+      title="{{female | size}}"
+    ><i class="fa fa-solid fa-venus"></i> ({{female | size}})</a>
+
+      <a 
+      class="data"
+      href="/tags/male-author" 
+      title="{{male | size}}"
+      ><i class="fa fa-solid fa-mars"></i> ({{male | size}})</a>
+    </div>
+  </div>
+  <div>
+    <ol class="bar-chart">
+      {% assign ratings = "0 1 2 3 4 5" | split: " " %}
+      {% for rating in ratings %}
+        {% assign count = site.posts | where: "stars", rating | size %}
+        <li>
+          <span class="label">{{rating}}</span>
+          <a 
+            class="data"
+            href="/stars/{{rating}}" 
+            style="--size: calc( 100% * {{count}} / 200 )"
+            title="{{count}} {{rating}}-star reviews"
+          >{{ count }}</a>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>
 
 <h2>Tags</h2>
 <p>
@@ -44,39 +97,6 @@ title: Nolan Can Read a Map
     {% assign count = site.posts | where_exp: "post", filter | size %}
     <a 
       href="/tags/{{tag}}" 
-      style="--size: calc( {{count}}% / 5 )"
     >{{ tag }} ({{count}})</a>
   {% endfor %}
 </p>
-
-{% assign female = '' | split: ',' %}
-{% assign male = '' | split: ',' %}
-{% for post in site.posts %}
-  {% if post.gender == 'm' %}
-    {% assign male = male | push: post.author %}
-  {% elsif post.gender == 'f' %}
-    {% assign female = female | push: post.author %}
-  {% endif %}
-{% endfor %}
-
-<h2>Author Gender</h2>
-<ol class="bar-chart">
-  <li>
-    <span class="label"><i class="fa fa-solid fa-venus"></i></span>
-    <a 
-      class="data"
-      href="/tags/female-author" 
-      style="--size: calc( {{female | size}}% / 3 )"
-      title="{{female | size}}"
-    >{{female | size}}</a>
-  </li>
-  <li>
-    <span class="label"><i class="fa fa-solid fa-mars"></i></span>
-    <a 
-      class="data"
-      href="/tags/male-author" 
-      style="--size: calc( {{male | size}}% / 3 )"
-      title="{{male | size}}"
-    >{{male | size}}</a>
-  </li>
-</ol>

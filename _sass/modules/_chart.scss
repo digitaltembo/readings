@@ -1,6 +1,13 @@
+.charts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 64px;
+}
+
 .bar-chart {
   width: 300px;
-  height: 300px;
   display: flex;
   flex-direction: column;
   list-style: none;
@@ -11,8 +18,8 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    flex-grow: 1;
     gap: 16px;
+    height: 32px;
 
     & > .data {
       flex-grow: 0;
@@ -27,4 +34,21 @@
       }
     }
   }
+}
+
+.pie-chart {
+  width: 400px;
+  height: 400px;
+  background-image: conic-gradient(
+    red 0%,
+    red var(--left),
+    yellow var(--left),
+    yellow 100%
+  );
+  border-radius: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 32px;
+  padding: 32px;
 }
