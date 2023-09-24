@@ -32,7 +32,7 @@ module StarRating
       end
 
       num_half_stars.times do
-        html += '<i class="fa fa-star-half-o"></i>'
+        html += '<i class="fa fa-star-half-alt"></i>'
       end
 
       num_empty_stars.times do
