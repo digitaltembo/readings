@@ -23,8 +23,33 @@ title: Nolan Can Read a Map
         class="data"
         href="/stars/{{rating}}" 
         style="--size: calc( {{count}}% / 3 )"
-        title="{{count}}"
+        title="{{count}} {{rating}}-star reviews"
       >{{ count }}</a>
     </li>
   {% endfor %}
+</ol>
+
+{% assign tags = '' | split: ',' %}
+
+{% for post in site.posts %}
+    {% assign postTags = post.tags | split: ' ' %}
+    {% assign tags = tags | concat: post.tags %}
+{% endfor %}
+{% assign tags = tags | uniq | sort %}
+
+<h2>Tags</h2>
+<p>
+  {% for tag in tags %}
+    {% assign filter = "post.tags contains '" | append: tag | append: "'" %}
+    {% assign count = site.posts | where_exp: "post", filter | size %}
+    <a 
+      class="data"
+      href="/tags/{{tag}}" 
+      style="--size: calc( {{count}}% / 5 )"
+      title="{{count}}"
+    >{{ tag }} ({{count}})</a>
+  {% endfor %}
+</p>
+<ol class="bar-chart" style="font-size: 5px">
+
 </ol>
