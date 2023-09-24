@@ -43,13 +43,40 @@ title: Nolan Can Read a Map
     {% assign filter = "post.tags contains '" | append: tag | append: "'" %}
     {% assign count = site.posts | where_exp: "post", filter | size %}
     <a 
-      class="data"
       href="/tags/{{tag}}" 
       style="--size: calc( {{count}}% / 5 )"
-      title="{{count}}"
     >{{ tag }} ({{count}})</a>
   {% endfor %}
 </p>
-<ol class="bar-chart" style="font-size: 5px">
 
+{% assign female = '' | split: ',' %}
+{% assign male = '' | split: ',' %}
+{% for post in site.posts %}
+  {% if post.gender == 'm' %}
+    {% assign male = male | push: post.author %}
+  {% elsif post.gender == 'f' %}
+    {% assign female = female | push: post.author %}
+  {% endif %}
+{% endfor %}
+
+<h2>Author Gender</h2>
+<ol class="bar-chart">
+  <li>
+    <span class="label"><i class="fa fa-solid fa-venus"></i></span>
+    <a 
+      class="data"
+      href="/tags/female-author" 
+      style="--size: calc( {{female | size}}% / 3 )"
+      title="{{female | size}}"
+    >{{female | size}}</a>
+  </li>
+  <li>
+    <span class="label"><i class="fa fa-solid fa-mars"></i></span>
+    <a 
+      class="data"
+      href="/tags/male-author" 
+      style="--size: calc( {{male | size}}% / 3 )"
+      title="{{male | size}}"
+    >{{male | size}}</a>
+  </li>
 </ol>
