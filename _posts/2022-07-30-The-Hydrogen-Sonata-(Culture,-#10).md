@@ -1,5 +1,6 @@
 ---
-title: "The Hydrogen Sonata (Culture, #10)"
+title: "The Hydrogen Sonata"
+subtitle: "(Culture, #10)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 517

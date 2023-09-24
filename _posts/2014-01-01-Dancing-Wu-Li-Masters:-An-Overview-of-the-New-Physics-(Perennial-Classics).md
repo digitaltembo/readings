@@ -1,5 +1,6 @@
 ---
-title: "Dancing Wu Li Masters: An Overview of the New Physics (Perennial Classics)"
+title: "Dancing Wu Li Masters:"
+subtitle: "An Overview of the New Physics (Perennial Classics)"
 author: Gary Zukav
 authorSort: Zukav, Gary
 pageCount: 416

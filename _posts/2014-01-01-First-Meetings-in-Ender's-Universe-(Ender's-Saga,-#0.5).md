@@ -1,5 +1,6 @@
 ---
-title: "First Meetings in Ender's Universe (Ender's Saga, #0.5)"
+title: "First Meetings in Ender's Universe"
+subtitle: "(Ender's Saga, #0.5)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 212

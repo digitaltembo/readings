@@ -1,5 +1,6 @@
 ---
-title: "Shadow of the Giant (The Shadow Series, #4)"
+title: "Shadow of the Giant"
+subtitle: "(The Shadow Series, #4)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 388

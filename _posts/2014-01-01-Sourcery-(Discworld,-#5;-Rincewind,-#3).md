@@ -1,5 +1,6 @@
 ---
-title: "Sourcery (Discworld, #5; Rincewind, #3)"
+title: "Sourcery"
+subtitle: "(Discworld, #5; Rincewind, #3)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 276

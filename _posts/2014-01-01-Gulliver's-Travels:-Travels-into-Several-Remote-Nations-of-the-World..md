@@ -1,5 +1,6 @@
 ---
-title: "Gulliver's Travels: Travels into Several Remote Nations of the World."
+title: "Gulliver's Travels:"
+subtitle: "Travels into Several Remote Nations of the World."
 author: Jonathan Swift
 authorSort: Swift, Jonathan
 pageCount: 306

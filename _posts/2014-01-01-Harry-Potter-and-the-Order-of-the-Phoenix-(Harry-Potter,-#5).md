@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Order of the Phoenix (Harry Potter, #5)"
+title: "Harry Potter and the Order of the Phoenix"
+subtitle: "(Harry Potter, #5)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 912

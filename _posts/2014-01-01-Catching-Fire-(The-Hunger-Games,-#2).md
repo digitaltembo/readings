@@ -1,5 +1,6 @@
 ---
-title: "Catching Fire (The Hunger Games, #2)"
+title: "Catching Fire"
+subtitle: "(The Hunger Games, #2)"
 author: Suzanne Collins
 authorSort: Collins, Suzanne
 pageCount: 391

@@ -1,5 +1,6 @@
 ---
-title: "Witches Abroad (Discworld, #12; Witches, #3)"
+title: "Witches Abroad"
+subtitle: "(Discworld, #12; Witches, #3)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 374

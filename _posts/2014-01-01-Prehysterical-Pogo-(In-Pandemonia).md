@@ -1,5 +1,6 @@
 ---
-title: "Prehysterical Pogo (In Pandemonia)"
+title: "Prehysterical Pogo"
+subtitle: "(In Pandemonia)"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount:

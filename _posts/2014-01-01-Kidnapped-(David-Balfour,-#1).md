@@ -1,5 +1,6 @@
 ---
-title: "Kidnapped (David Balfour, #1)"
+title: "Kidnapped"
+subtitle: "(David Balfour, #1)"
 author: Robert Louis Stevenson
 authorSort: Stevenson, Robert Louis
 pageCount: 288

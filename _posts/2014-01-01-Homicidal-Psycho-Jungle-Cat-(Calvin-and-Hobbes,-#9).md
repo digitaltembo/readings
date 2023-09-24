@@ -1,5 +1,6 @@
 ---
-title: "Homicidal Psycho Jungle Cat (Calvin and Hobbes, #9)"
+title: "Homicidal Psycho Jungle Cat"
+subtitle: "(Calvin and Hobbes, #9)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 176

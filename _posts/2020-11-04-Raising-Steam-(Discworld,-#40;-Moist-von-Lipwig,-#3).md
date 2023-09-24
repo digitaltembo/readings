@@ -1,5 +1,6 @@
 ---
-title: "Raising Steam (Discworld, #40; Moist von Lipwig, #3)"
+title: "Raising Steam"
+subtitle: "(Discworld, #40; Moist von Lipwig, #3)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 377

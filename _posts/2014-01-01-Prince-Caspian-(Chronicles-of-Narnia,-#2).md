@@ -1,5 +1,6 @@
 ---
-title: "Prince Caspian (Chronicles of Narnia, #2)"
+title: "Prince Caspian"
+subtitle: "(Chronicles of Narnia, #2)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 240

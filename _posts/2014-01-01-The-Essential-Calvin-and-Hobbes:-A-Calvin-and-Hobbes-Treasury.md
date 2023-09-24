@@ -1,5 +1,6 @@
 ---
-title: "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury"
+title: "The Essential Calvin and Hobbes:"
+subtitle: "A Calvin and Hobbes Treasury"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 256

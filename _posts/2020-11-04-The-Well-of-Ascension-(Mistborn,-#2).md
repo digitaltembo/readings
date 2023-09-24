@@ -1,5 +1,6 @@
 ---
-title: "The Well of Ascension (Mistborn, #2)"
+title: "The Well of Ascension"
+subtitle: "(Mistborn, #2)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 592

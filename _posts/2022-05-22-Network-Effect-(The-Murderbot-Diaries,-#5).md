@@ -1,5 +1,6 @@
 ---
-title: "Network Effect (The Murderbot Diaries, #5)"
+title: "Network Effect"
+subtitle: "(The Murderbot Diaries, #5)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 350

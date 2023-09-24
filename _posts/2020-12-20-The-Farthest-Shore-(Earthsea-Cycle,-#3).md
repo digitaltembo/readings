@@ -1,5 +1,6 @@
 ---
-title: "The Farthest Shore (Earthsea Cycle, #3)"
+title: "The Farthest Shore"
+subtitle: "(Earthsea Cycle, #3)"
 author: Ursula K. Le Guin
 authorSort: Guin, Ursula K. Le
 pageCount: 259

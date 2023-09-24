@@ -1,5 +1,6 @@
 ---
-title: "Jurassic Park (Jurassic Park, #1)"
+title: "Jurassic Park"
+subtitle: "(Jurassic Park, #1)"
 author: Michael Crichton
 authorSort: Crichton, Michael
 pageCount: 480

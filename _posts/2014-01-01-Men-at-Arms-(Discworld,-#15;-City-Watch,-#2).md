@@ -1,5 +1,6 @@
 ---
-title: "Men at Arms (Discworld, #15; City Watch, #2)"
+title: "Men at Arms"
+subtitle: "(Discworld, #15; City Watch, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 377

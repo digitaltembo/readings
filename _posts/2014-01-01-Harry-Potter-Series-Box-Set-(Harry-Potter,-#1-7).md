@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter Series Box Set (Harry Potter, #1-7)"
+title: "Harry Potter Series Box Set"
+subtitle: "(Harry Potter, #1-7)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 4100

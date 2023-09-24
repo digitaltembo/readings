@@ -1,5 +1,6 @@
 ---
-title: "Sword of Destiny (The Witcher, #0.7)"
+title: "Sword of Destiny"
+subtitle: "(The Witcher, #0.7)"
 author: Andrzej Sapkowski
 authorSort: Sapkowski, Andrzej
 pageCount: 405

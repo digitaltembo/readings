@@ -1,5 +1,6 @@
 ---
-title: "Paris in the Twentieth Century: The Lost Novel"
+title: "Paris in the Twentieth Century:"
+subtitle: "The Lost Novel"
 author: Jules Verne
 authorSort: Verne, Jules
 pageCount: 222

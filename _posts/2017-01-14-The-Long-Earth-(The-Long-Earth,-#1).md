@@ -1,5 +1,6 @@
 ---
-title: "The Long Earth (The Long Earth, #1)"
+title: "The Long Earth"
+subtitle: "(The Long Earth, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 336

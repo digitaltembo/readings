@@ -1,5 +1,6 @@
 ---
-title: "Alvin Journeyman (Tales of Alvin Maker, #4)"
+title: "Alvin Journeyman"
+subtitle: "(Tales of Alvin Maker, #4)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 381

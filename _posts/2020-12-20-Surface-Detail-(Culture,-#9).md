@@ -1,5 +1,6 @@
 ---
-title: "Surface Detail (Culture, #9)"
+title: "Surface Detail"
+subtitle: "(Culture, #9)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 627

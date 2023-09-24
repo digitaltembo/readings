@@ -1,5 +1,6 @@
 ---
-title: "So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)"
+title: "So Long, and Thanks for All the Fish"
+subtitle: "(Hitchhiker's Guide to the Galaxy, #4)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 167

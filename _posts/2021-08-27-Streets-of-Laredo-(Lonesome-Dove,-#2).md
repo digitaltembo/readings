@@ -1,5 +1,6 @@
 ---
-title: "Streets of Laredo (Lonesome Dove, #2)"
+title: "Streets of Laredo"
+subtitle: "(Lonesome Dove, #2)"
 author: Larry McMurtry
 authorSort: McMurtry, Larry
 pageCount: 547

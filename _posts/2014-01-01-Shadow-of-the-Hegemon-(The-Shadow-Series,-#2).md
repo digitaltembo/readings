@@ -1,5 +1,6 @@
 ---
-title: "Shadow of the Hegemon (The Shadow Series, #2)"
+title: "Shadow of the Hegemon"
+subtitle: "(The Shadow Series, #2)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 451

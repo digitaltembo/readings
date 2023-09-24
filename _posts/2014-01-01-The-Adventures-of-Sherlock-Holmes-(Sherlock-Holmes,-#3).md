@@ -1,5 +1,6 @@
 ---
-title: "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)"
+title: "The Adventures of Sherlock Holmes"
+subtitle: "(Sherlock Holmes, #3)"
 author: Arthur Conan Doyle
 authorSort: Doyle, Arthur Conan
 pageCount: 389

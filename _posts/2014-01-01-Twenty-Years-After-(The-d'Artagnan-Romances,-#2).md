@@ -1,5 +1,6 @@
 ---
-title: "Twenty Years After (The d'Artagnan Romances, #2)"
+title: "Twenty Years After"
+subtitle: "(The d'Artagnan Romances, #2)"
 author: Alexandre Dumas
 authorSort: Alexandre Dumas
 pageCount: 845

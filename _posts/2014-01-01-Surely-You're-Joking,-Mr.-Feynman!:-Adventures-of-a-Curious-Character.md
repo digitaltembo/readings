@@ -1,5 +1,6 @@
 ---
-title: "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
+title: "Surely You're Joking, Mr. Feynman!:"
+subtitle: "Adventures of a Curious Character"
 author: Richard P. Feynman
 authorSort: Feynman, Richard P.
 pageCount: 391

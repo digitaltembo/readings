@@ -1,5 +1,6 @@
 ---
-title: "Earthborn (Homecoming, #5)"
+title: "Earthborn"
+subtitle: "(Homecoming, #5)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 430

@@ -1,5 +1,6 @@
 ---
-title: "The Light Fantastic (Discworld, #2; Rincewind, #2)"
+title: "The Light Fantastic"
+subtitle: "(Discworld, #2; Rincewind, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 277

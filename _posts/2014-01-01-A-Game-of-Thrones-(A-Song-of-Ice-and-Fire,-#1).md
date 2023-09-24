@@ -1,5 +1,6 @@
 ---
-title: "A Game of Thrones (A Song of Ice and Fire, #1)"
+title: "A Game of Thrones"
+subtitle: "(A Song of Ice and Fire, #1)"
 author: George R.R. Martin
 authorSort: Martin, George R.R.
 pageCount: 835

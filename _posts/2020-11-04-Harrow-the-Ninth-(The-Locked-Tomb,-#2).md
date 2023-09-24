@@ -1,5 +1,6 @@
 ---
-title: "Harrow the Ninth (The Locked Tomb, #2)"
+title: "Harrow the Ninth"
+subtitle: "(The Locked Tomb, #2)"
 author: Tamsyn Muir
 authorSort: Muir, Tamsyn
 pageCount: 510

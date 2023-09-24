@@ -1,5 +1,6 @@
 ---
-title: "Ancillary Justice (Imperial Radch, #1)"
+title: "Ancillary Justice"
+subtitle: "(Imperial Radch, #1)"
 author: Ann Leckie
 authorSort: Leckie, Ann
 pageCount: 416

@@ -1,5 +1,6 @@
 ---
-title: "The Subtle Knife (His Dark Materials, #2)"
+title: "The Subtle Knife"
+subtitle: "(His Dark Materials, #2)"
 author: Philip Pullman
 authorSort: Pullman, Philip
 pageCount: 326

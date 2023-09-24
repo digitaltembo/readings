@@ -1,5 +1,6 @@
 ---
-title: "The Player of Games (Culture, #2)"
+title: "The Player of Games"
+subtitle: "(Culture, #2)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 293

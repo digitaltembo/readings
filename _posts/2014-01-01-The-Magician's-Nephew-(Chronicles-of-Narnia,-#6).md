@@ -1,5 +1,6 @@
 ---
-title: "The Magician's Nephew (Chronicles of Narnia, #6)"
+title: "The Magician's Nephew"
+subtitle: "(Chronicles of Narnia, #6)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 221

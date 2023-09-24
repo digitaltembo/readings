@@ -1,5 +1,6 @@
 ---
-title: "Children of the Mind (Ender's Saga, #4)"
+title: "Children of the Mind"
+subtitle: "(Ender's Saga, #4)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 370

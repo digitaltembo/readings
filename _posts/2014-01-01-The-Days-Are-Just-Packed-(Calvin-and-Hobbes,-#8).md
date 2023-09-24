@@ -1,5 +1,6 @@
 ---
-title: "The Days Are Just Packed (Calvin and Hobbes, #8)"
+title: "The Days Are Just Packed"
+subtitle: "(Calvin and Hobbes, #8)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 176

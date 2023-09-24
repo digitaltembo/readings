@@ -1,5 +1,6 @@
 ---
-title: "Nona the Ninth (The Locked Tomb, #3)"
+title: "Nona the Ninth"
+subtitle: "(The Locked Tomb, #3)"
 author: Tamsyn Muir
 authorSort: Muir, Tamsyn
 pageCount: 480

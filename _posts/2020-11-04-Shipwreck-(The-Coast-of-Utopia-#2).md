@@ -1,5 +1,6 @@
 ---
-title: "Shipwreck (The Coast of Utopia #2)"
+title: "Shipwreck"
+subtitle: "(The Coast of Utopia #2)"
 author: Tom Stoppard
 authorSort: Stoppard, Tom
 pageCount: 107

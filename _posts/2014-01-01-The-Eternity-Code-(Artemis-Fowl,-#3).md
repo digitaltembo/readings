@@ -1,5 +1,6 @@
 ---
-title: "The Eternity Code (Artemis Fowl, #3)"
+title: "The Eternity Code"
+subtitle: "(Artemis Fowl, #3)"
 author: Eoin Colfer
 authorSort: Colfer, Eoin
 pageCount: 329

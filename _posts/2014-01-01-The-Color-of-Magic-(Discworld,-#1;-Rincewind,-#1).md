@@ -1,5 +1,6 @@
 ---
-title: "The Color of Magic (Discworld, #1; Rincewind, #1)"
+title: "The Color of Magic"
+subtitle: "(Discworld, #1; Rincewind, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 228

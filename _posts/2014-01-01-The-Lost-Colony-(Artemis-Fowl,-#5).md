@@ -1,5 +1,6 @@
 ---
-title: "The Lost Colony (Artemis Fowl, #5)"
+title: "The Lost Colony"
+subtitle: "(Artemis Fowl, #5)"
 author: Eoin Colfer
 authorSort: Colfer, Eoin
 pageCount: 385

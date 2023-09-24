@@ -1,5 +1,6 @@
 ---
-title: "Dune Messiah (Dune Chronicles, #2)"
+title: "Dune Messiah"
+subtitle: "(Dune Chronicles, #2)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 331

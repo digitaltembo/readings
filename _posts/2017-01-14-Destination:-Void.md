@@ -1,5 +1,6 @@
 ---
-title: "Destination: Void"
+title: "Destination:"
+subtitle: "Void"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 276

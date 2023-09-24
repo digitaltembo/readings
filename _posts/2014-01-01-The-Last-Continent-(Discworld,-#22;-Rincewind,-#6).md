@@ -1,5 +1,6 @@
 ---
-title: "The Last Continent (Discworld, #22; Rincewind, #6)"
+title: "The Last Continent"
+subtitle: "(Discworld, #22; Rincewind, #6)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 416

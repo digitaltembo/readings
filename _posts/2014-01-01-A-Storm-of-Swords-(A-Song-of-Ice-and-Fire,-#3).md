@@ -1,5 +1,6 @@
 ---
-title: "A Storm of Swords (A Song of Ice and Fire, #3)"
+title: "A Storm of Swords"
+subtitle: "(A Song of Ice and Fire, #3)"
 author: George R.R. Martin
 authorSort: Martin, George R.R.
 pageCount: 1177

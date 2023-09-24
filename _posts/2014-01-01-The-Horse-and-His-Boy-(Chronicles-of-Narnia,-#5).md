@@ -1,5 +1,6 @@
 ---
-title: "The Horse and His Boy (Chronicles of Narnia, #5)"
+title: "The Horse and His Boy"
+subtitle: "(Chronicles of Narnia, #5)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 224

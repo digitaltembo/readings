@@ -1,5 +1,6 @@
 ---
-title: "The Memory of Earth (Homecoming, #1)"
+title: "The Memory of Earth"
+subtitle: "(Homecoming, #1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 332

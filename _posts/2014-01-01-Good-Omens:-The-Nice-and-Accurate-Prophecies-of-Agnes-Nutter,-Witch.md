@@ -1,5 +1,6 @@
 ---
-title: "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"
+title: "Good Omens:"
+subtitle: "The Nice and Accurate Prophecies of Agnes Nutter, Witch"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 491

@@ -1,5 +1,6 @@
 ---
-title: "The Alloy of Law (Mistborn, #4)"
+title: "The Alloy of Law"
+subtitle: "(Mistborn, #4)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 332

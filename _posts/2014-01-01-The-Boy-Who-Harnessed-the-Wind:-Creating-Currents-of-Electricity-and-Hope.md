@@ -1,5 +1,6 @@
 ---
-title: "The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope"
+title: "The Boy Who Harnessed the Wind:"
+subtitle: "Creating Currents of Electricity and Hope"
 author: William Kamkwamba
 authorSort: Kamkwamba, William
 pageCount: 270

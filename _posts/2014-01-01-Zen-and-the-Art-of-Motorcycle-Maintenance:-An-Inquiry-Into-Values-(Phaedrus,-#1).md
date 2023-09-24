@@ -1,5 +1,6 @@
 ---
-title: "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)"
+title: "Zen and the Art of Motorcycle Maintenance:"
+subtitle: "An Inquiry Into Values (Phaedrus, #1)"
 author: Robert M. Pirsig
 authorSort: Pirsig, Robert M.
 pageCount: 540

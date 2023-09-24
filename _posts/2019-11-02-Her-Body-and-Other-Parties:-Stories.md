@@ -1,5 +1,6 @@
 ---
-title: "Her Body and Other Parties: Stories"
+title: "Her Body and Other Parties:"
+subtitle: "Stories"
 author: Carmen Maria Machado
 authorSort: Machado, Carmen Maria
 pageCount: 248

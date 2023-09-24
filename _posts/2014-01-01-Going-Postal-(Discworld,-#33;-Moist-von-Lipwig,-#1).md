@@ -1,5 +1,6 @@
 ---
-title: "Going Postal (Discworld, #33; Moist von Lipwig, #1)"
+title: "Going Postal"
+subtitle: "(Discworld, #33; Moist von Lipwig, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 394

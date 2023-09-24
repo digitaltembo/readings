@@ -1,5 +1,6 @@
 ---
-title: "Heartfire (Tales of Alvin Maker, #5)"
+title: "Heartfire"
+subtitle: "(Tales of Alvin Maker, #5)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 336

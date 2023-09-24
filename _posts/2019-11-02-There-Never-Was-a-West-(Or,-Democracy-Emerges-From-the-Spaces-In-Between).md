@@ -1,5 +1,6 @@
 ---
-title: "There Never Was a West (Or, Democracy Emerges From the Spaces In Between)"
+title: "There Never Was a West"
+subtitle: "(Or, Democracy Emerges From the Spaces In Between)"
 author: David Graeber
 authorSort: Graeber, David
 pageCount:

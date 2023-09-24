@@ -1,5 +1,6 @@
 ---
-title: "Seventh Son (Tales of Alvin Maker, #1)"
+title: "Seventh Son"
+subtitle: "(Tales of Alvin Maker, #1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 241

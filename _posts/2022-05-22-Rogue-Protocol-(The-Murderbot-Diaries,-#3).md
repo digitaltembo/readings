@@ -1,5 +1,6 @@
 ---
-title: "Rogue Protocol (The Murderbot Diaries, #3)"
+title: "Rogue Protocol"
+subtitle: "(The Murderbot Diaries, #3)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 158

@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Chamber of Secrets (Harry Potter, #2)"
+title: "Harry Potter and the Chamber of Secrets"
+subtitle: "(Harry Potter, #2)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 341

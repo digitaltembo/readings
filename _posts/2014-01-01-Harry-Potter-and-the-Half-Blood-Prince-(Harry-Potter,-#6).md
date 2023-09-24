@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Half-Blood Prince (Harry Potter, #6)"
+title: "Harry Potter and the Half-Blood Prince"
+subtitle: "(Harry Potter, #6)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 652

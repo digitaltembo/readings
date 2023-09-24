@@ -1,5 +1,6 @@
 ---
-title: "Mort (Discworld, #4; Death, #1)"
+title: "Mort"
+subtitle: "(Discworld, #4; Death, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 243

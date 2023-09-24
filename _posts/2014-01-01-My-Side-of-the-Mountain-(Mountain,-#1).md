@@ -1,5 +1,6 @@
 ---
-title: "My Side of the Mountain (Mountain, #1)"
+title: "My Side of the Mountain"
+subtitle: "(Mountain, #1)"
 author: Jean Craighead George
 authorSort: George, Jean Craighead
 pageCount: 177

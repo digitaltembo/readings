@@ -1,5 +1,6 @@
 ---
-title: "The Fifth Elephant (Discworld, #24; City Watch, #5)"
+title: "The Fifth Elephant"
+subtitle: "(Discworld, #24; City Watch, #5)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 464

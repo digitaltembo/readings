@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Goblet of Fire (Harry Potter, #4)"
+title: "Harry Potter and the Goblet of Fire"
+subtitle: "(Harry Potter, #4)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 734

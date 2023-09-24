@@ -1,5 +1,6 @@
 ---
-title: "Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)"
+title: "Twenty Thousand Leagues Under the Sea"
+subtitle: "(Captain Nemo, #2)"
 author: Jules Verne
 authorSort: Verne, Jules
 pageCount: 269

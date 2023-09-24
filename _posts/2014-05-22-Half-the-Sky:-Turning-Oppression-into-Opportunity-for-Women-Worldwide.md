@@ -1,5 +1,6 @@
 ---
-title: "Half the Sky: Turning Oppression into Opportunity for Women Worldwide"
+title: "Half the Sky:"
+subtitle: "Turning Oppression into Opportunity for Women Worldwide"
 author: Nicholas D. Kristof
 authorSort: Kristof, Nicholas D.
 pageCount: 294

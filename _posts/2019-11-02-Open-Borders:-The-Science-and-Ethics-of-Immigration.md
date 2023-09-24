@@ -1,5 +1,6 @@
 ---
-title: "Open Borders: The Science and Ethics of Immigration"
+title: "Open Borders:"
+subtitle: "The Science and Ethics of Immigration"
 author: Bryan Caplan
 authorSort: Caplan, Bryan
 pageCount: 256

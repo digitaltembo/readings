@@ -1,5 +1,6 @@
 ---
-title: "The Cat in the Hat (The Cat in the Hat, #1)"
+title: "The Cat in the Hat"
+subtitle: "(The Cat in the Hat, #1)"
 author: Dr. Seuss
 authorSort: Seuss, Dr.
 pageCount: 61

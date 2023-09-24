@@ -1,5 +1,6 @@
 ---
-title: "Pastwatch: The Redemption of Christopher Columbus"
+title: "Pastwatch:"
+subtitle: "The Redemption of Christopher Columbus"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 402

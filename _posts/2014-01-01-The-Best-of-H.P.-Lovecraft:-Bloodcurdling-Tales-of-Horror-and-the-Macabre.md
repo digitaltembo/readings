@@ -1,5 +1,6 @@
 ---
-title: "The Best of H.P. Lovecraft: Bloodcurdling Tales of Horror and the Macabre"
+title: "The Best of H.P. Lovecraft:"
+subtitle: "Bloodcurdling Tales of Horror and the Macabre"
 author: H.P. Lovecraft
 authorSort: Lovecraft, H.P.
 pageCount: 406

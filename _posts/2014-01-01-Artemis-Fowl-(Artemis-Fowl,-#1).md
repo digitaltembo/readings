@@ -1,5 +1,6 @@
 ---
-title: "Artemis Fowl (Artemis Fowl, #1)"
+title: "Artemis Fowl"
+subtitle: "(Artemis Fowl, #1)"
 author: Eoin Colfer
 authorSort: Colfer, Eoin
 pageCount: 396

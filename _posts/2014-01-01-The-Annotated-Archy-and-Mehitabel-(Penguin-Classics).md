@@ -1,5 +1,6 @@
 ---
-title: "The Annotated Archy and Mehitabel (Penguin Classics)"
+title: "The Annotated Archy and Mehitabel"
+subtitle: "(Penguin Classics)"
 author: Don Marquis
 authorSort: Marquis, Don
 pageCount: 400

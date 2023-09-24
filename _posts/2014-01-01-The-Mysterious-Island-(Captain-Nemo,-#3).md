@@ -1,5 +1,6 @@
 ---
-title: "The Mysterious Island (Captain Nemo, #3)"
+title: "The Mysterious Island"
+subtitle: "(Captain Nemo, #3)"
 author: Jules Verne
 authorSort: Verne, Jules
 pageCount: 723

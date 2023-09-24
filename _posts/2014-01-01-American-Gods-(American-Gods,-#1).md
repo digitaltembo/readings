@@ -1,5 +1,6 @@
 ---
-title: "American Gods (American Gods, #1)"
+title: "American Gods"
+subtitle: "(American Gods, #1)"
 author: Neil Gaiman
 authorSort: Gaiman, Neil
 pageCount: 635

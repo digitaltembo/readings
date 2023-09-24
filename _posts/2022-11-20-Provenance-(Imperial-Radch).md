@@ -1,5 +1,6 @@
 ---
-title: "Provenance (Imperial Radch)"
+title: "Provenance"
+subtitle: "(Imperial Radch)"
 author: Ann Leckie
 authorSort: Leckie, Ann
 pageCount: 481

@@ -1,5 +1,6 @@
 ---
-title: "The Last Battle (Chronicles of Narnia, #7)"
+title: "The Last Battle"
+subtitle: "(Chronicles of Narnia, #7)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 288

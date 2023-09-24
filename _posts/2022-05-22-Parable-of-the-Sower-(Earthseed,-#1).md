@@ -1,5 +1,6 @@
 ---
-title: "Parable of the Sower (Earthseed, #1)"
+title: "Parable of the Sower"
+subtitle: "(Earthseed, #1)"
 author: Octavia E. Butler
 authorSort: Butler, Octavia E.
 pageCount: 345

@@ -1,5 +1,6 @@
 ---
-title: "Night  (The Night Trilogy, #1)"
+title: "Night "
+subtitle: "(The Night Trilogy, #1)"
 author: Elie Wiesel
 authorSort: Wiesel, Elie
 pageCount: 115

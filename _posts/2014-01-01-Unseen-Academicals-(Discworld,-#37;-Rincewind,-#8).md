@@ -1,5 +1,6 @@
 ---
-title: "Unseen Academicals (Discworld, #37; Rincewind, #8)"
+title: "Unseen Academicals"
+subtitle: "(Discworld, #37; Rincewind, #8)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 417

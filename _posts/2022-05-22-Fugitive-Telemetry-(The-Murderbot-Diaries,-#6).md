@@ -1,5 +1,6 @@
 ---
-title: "Fugitive Telemetry (The Murderbot Diaries, #6)"
+title: "Fugitive Telemetry"
+subtitle: "(The Murderbot Diaries, #6)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 168

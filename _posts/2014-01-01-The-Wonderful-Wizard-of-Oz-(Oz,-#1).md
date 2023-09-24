@@ -1,5 +1,6 @@
 ---
-title: "The Wonderful Wizard of Oz (Oz, #1)"
+title: "The Wonderful Wizard of Oz"
+subtitle: "(Oz, #1)"
 author: L. Frank Baum
 authorSort: Baum, L. Frank
 pageCount: 154

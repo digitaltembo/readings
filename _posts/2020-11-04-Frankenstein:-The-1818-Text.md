@@ -1,5 +1,6 @@
 ---
-title: "Frankenstein: The 1818 Text"
+title: "Frankenstein:"
+subtitle: "The 1818 Text"
 author: Mary Wollstonecraft Shelley
 authorSort: Shelley, Mary Wollstonecraft
 pageCount: 260

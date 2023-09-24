@@ -1,5 +1,6 @@
 ---
-title: "Monstrous Regiment (Discworld, #31)"
+title: "Monstrous Regiment"
+subtitle: "(Discworld, #31)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 389

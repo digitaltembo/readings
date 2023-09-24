@@ -1,5 +1,6 @@
 ---
-title: "Night Watch (Discworld, #29; City Watch, #6)"
+title: "Night Watch"
+subtitle: "(Discworld, #29; City Watch, #6)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 480

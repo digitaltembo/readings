@@ -1,5 +1,6 @@
 ---
-title: "Jingo (Discworld, #21; City Watch, #4)"
+title: "Jingo"
+subtitle: "(Discworld, #21; City Watch, #4)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 461

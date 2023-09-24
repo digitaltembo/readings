@@ -1,5 +1,6 @@
 ---
-title: "All Systems Red (The Murderbot Diaries, #1)"
+title: "All Systems Red"
+subtitle: "(The Murderbot Diaries, #1)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 144

@@ -1,5 +1,6 @@
 ---
-title: "Look at the Birdie: Unpublished Short Fiction"
+title: "Look at the Birdie:"
+subtitle: "Unpublished Short Fiction"
 author: Kurt Vonnegut Jr.
 authorSort: Jr., Kurt Vonnegut
 pageCount: 251

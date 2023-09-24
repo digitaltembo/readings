@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Deathly Hallows (Harry Potter, #7)"
+title: "Harry Potter and the Deathly Hallows"
+subtitle: "(Harry Potter, #7)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 759

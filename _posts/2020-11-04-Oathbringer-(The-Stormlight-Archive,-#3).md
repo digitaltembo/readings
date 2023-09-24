@@ -1,5 +1,6 @@
 ---
-title: "Oathbringer (The Stormlight Archive, #3)"
+title: "Oathbringer"
+subtitle: "(The Stormlight Archive, #3)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 1243

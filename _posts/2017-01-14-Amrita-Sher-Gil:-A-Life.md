@@ -1,5 +1,6 @@
 ---
-title: "Amrita Sher-Gil: A Life"
+title: "Amrita Sher-Gil:"
+subtitle: "A Life"
 author: Yashodhara Dalmia
 authorSort: Dalmia, Yashodhara
 pageCount: 230

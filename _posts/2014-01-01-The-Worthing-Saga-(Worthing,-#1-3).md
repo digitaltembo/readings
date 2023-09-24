@@ -1,5 +1,6 @@
 ---
-title: "The Worthing Saga (Worthing, #1-3)"
+title: "The Worthing Saga"
+subtitle: "(Worthing, #1-3)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 463

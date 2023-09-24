@@ -1,5 +1,6 @@
 ---
-title: "A Memory Called Empire (Teixcalaan #1)"
+title: "A Memory Called Empire"
+subtitle: "(Teixcalaan #1)"
 author: Arkady Martine
 authorSort: Martine, Arkady
 pageCount: 462

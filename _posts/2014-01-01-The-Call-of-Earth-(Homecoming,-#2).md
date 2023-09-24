@@ -1,5 +1,6 @@
 ---
-title: "The Call of Earth (Homecoming, #2)"
+title: "The Call of Earth"
+subtitle: "(Homecoming, #2)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 352

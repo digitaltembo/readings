@@ -1,5 +1,6 @@
 ---
-title: "Charlie and the Great Glass Elevator (Charlie Bucket, #2)"
+title: "Charlie and the Great Glass Elevator"
+subtitle: "(Charlie Bucket, #2)"
 author: Roald Dahl
 authorSort: Dahl, Roald
 pageCount: 159

@@ -1,5 +1,6 @@
 ---
-title: "Pogo's Double Sundae: Two Unabridged Helpings of Past Pogo Classics - The Pogo Sunday Parade and The Pogo Sunday Brunch (A Fireside book)"
+title: "Pogo's Double Sundae:"
+subtitle: "Two Unabridged Helpings of Past Pogo Classics - The Pogo Sunday Parade and The Pogo Sunday Brunch (A Fireside book)"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount: 255

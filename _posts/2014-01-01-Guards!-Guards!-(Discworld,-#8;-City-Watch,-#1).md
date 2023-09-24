@@ -1,5 +1,6 @@
 ---
-title: "Guards! Guards! (Discworld, #8; City Watch, #1)"
+title: "Guards! Guards!"
+subtitle: "(Discworld, #8; City Watch, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 376

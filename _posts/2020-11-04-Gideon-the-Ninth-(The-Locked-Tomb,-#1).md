@@ -1,5 +1,6 @@
 ---
-title: "Gideon the Ninth (The Locked Tomb, #1)"
+title: "Gideon the Ninth"
+subtitle: "(The Locked Tomb, #1)"
 author: Tamsyn Muir
 authorSort: Muir, Tamsyn
 pageCount: 448

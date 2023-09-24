@@ -1,5 +1,6 @@
 ---
-title: "My Man Jeeves (Jeeves, #1)"
+title: "My Man Jeeves"
+subtitle: "(Jeeves, #1)"
 author: P.G. Wodehouse
 authorSort: Wodehouse, P.G.
 pageCount: 256

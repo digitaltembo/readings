@@ -1,5 +1,6 @@
 ---
-title: "Ender's Shadow (The Shadow Series, #1)"
+title: "Ender's Shadow"
+subtitle: "(The Shadow Series, #1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 469

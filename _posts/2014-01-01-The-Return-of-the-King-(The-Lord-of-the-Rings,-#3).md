@@ -1,5 +1,6 @@
 ---
-title: "The Return of the King (The Lord of the Rings, #3)"
+title: "The Return of the King"
+subtitle: "(The Lord of the Rings, #3)"
 author: J.R.R. Tolkien
 authorSort: Tolkien, J.R.R.
 pageCount: 404

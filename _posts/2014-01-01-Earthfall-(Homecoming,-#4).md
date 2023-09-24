@@ -1,5 +1,6 @@
 ---
-title: "Earthfall (Homecoming, #4)"
+title: "Earthfall"
+subtitle: "(Homecoming, #4)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 370

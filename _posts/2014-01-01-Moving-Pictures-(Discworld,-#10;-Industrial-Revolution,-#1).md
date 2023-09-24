@@ -1,5 +1,6 @@
 ---
-title: "Moving Pictures (Discworld, #10; Industrial Revolution, #1)"
+title: "Moving Pictures"
+subtitle: "(Discworld, #10; Industrial Revolution, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 396

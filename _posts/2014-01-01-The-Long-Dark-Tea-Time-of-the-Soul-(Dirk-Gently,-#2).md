@@ -1,5 +1,6 @@
 ---
-title: "The Long Dark Tea-Time of the Soul (Dirk Gently, #2)"
+title: "The Long Dark Tea-Time of the Soul"
+subtitle: "(Dirk Gently, #2)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 307

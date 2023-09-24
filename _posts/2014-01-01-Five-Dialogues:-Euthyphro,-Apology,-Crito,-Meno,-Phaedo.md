@@ -1,5 +1,6 @@
 ---
-title: "Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo"
+title: "Five Dialogues:"
+subtitle: "Euthyphro, Apology, Crito, Meno, Phaedo"
 author: Plato
 authorSort: Plato
 pageCount: 156

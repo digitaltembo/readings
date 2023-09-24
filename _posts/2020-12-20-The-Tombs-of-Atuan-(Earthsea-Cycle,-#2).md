@@ -1,5 +1,6 @@
 ---
-title: "The Tombs of Atuan (Earthsea Cycle, #2)"
+title: "The Tombs of Atuan"
+subtitle: "(Earthsea Cycle, #2)"
 author: Ursula K. Le Guin
 authorSort: Guin, Ursula K. Le
 pageCount: 180

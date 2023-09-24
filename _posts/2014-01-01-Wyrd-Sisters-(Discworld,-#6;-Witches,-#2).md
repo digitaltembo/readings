@@ -1,5 +1,6 @@
 ---
-title: "Wyrd Sisters (Discworld, #6; Witches, #2)"
+title: "Wyrd Sisters"
+subtitle: "(Discworld, #6; Witches, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 265

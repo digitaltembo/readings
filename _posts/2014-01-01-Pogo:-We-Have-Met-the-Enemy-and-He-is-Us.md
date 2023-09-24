@@ -1,5 +1,6 @@
 ---
-title: "Pogo: We Have Met the Enemy and He is Us"
+title: "Pogo:"
+subtitle: "We Have Met the Enemy and He is Us"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount: 127

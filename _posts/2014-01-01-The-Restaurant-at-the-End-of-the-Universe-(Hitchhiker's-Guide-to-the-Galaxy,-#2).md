@@ -1,5 +1,6 @@
 ---
-title: "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)"
+title: "The Restaurant at the End of the Universe"
+subtitle: "(Hitchhiker's Guide to the Galaxy, #2)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 250

@@ -1,5 +1,6 @@
 ---
-title: "Eric (Discworld, #9; Rincewind, #4)"
+title: "Eric"
+subtitle: "(Discworld, #9; Rincewind, #4)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 197

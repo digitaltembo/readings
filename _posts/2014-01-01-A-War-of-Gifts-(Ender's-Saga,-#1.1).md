@@ -1,5 +1,6 @@
 ---
-title: "A War of Gifts (Ender's Saga, #1.1)"
+title: "A War of Gifts"
+subtitle: "(Ender's Saga, #1.1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 126

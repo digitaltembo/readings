@@ -1,5 +1,6 @@
 ---
-title: "My Father's Dragon (My Father's Dragon, #1)"
+title: "My Father's Dragon"
+subtitle: "(My Father's Dragon, #1)"
 author: Ruth Stiles Gannett
 authorSort: Gannett, Ruth Stiles
 pageCount: 96

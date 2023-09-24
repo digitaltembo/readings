@@ -1,5 +1,6 @@
 ---
-title: "Rhythm of War (The Stormlight Archive, #4)"
+title: "Rhythm of War"
+subtitle: "(The Stormlight Archive, #4)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 1232

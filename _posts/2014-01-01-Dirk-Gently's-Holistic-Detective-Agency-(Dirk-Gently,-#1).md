@@ -1,5 +1,6 @@
 ---
-title: "Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)"
+title: "Dirk Gently's Holistic Detective Agency"
+subtitle: "(Dirk Gently, #1)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 306

@@ -1,5 +1,6 @@
 ---
-title: "Consider Phlebas (Culture, #1)"
+title: "Consider Phlebas"
+subtitle: "(Culture, #1)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 467

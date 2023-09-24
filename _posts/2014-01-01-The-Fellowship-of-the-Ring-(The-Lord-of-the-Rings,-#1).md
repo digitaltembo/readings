@@ -1,5 +1,6 @@
 ---
-title: "The Fellowship of the Ring (The Lord of the Rings, #1)"
+title: "The Fellowship of the Ring"
+subtitle: "(The Lord of the Rings, #1)"
 author: J.R.R. Tolkien
 authorSort: Tolkien, J.R.R.
 pageCount: 398

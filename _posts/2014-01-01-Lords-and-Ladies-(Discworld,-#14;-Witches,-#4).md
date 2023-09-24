@@ -1,5 +1,6 @@
 ---
-title: "Lords and Ladies (Discworld, #14; Witches, #4)"
+title: "Lords and Ladies"
+subtitle: "(Discworld, #14; Witches, #4)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 400

@@ -1,5 +1,6 @@
 ---
-title: "Exit Strategy (The Murderbot Diaries, #4)"
+title: "Exit Strategy"
+subtitle: "(The Murderbot Diaries, #4)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 176

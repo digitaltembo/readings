@@ -1,5 +1,6 @@
 ---
-title: "The Crucible: A Play in Four Acts"
+title: "The Crucible:"
+subtitle: "A Play in Four Acts"
 author: Arthur  Miller
 authorSort: Miller, Arthur
 pageCount: 143

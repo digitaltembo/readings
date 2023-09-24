@@ -1,5 +1,6 @@
 ---
-title: "The Crystal City (Tales of Alvin Maker, #6)"
+title: "The Crystal City"
+subtitle: "(Tales of Alvin Maker, #6)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 352

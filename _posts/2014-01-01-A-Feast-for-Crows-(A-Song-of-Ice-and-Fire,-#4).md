@@ -1,5 +1,6 @@
 ---
-title: "A Feast for Crows (A Song of Ice and Fire, #4)"
+title: "A Feast for Crows"
+subtitle: "(A Song of Ice and Fire, #4)"
 author: George R.R. Martin
 authorSort: Martin, George R.R.
 pageCount: 1061

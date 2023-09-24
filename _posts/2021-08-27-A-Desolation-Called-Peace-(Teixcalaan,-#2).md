@@ -1,5 +1,6 @@
 ---
-title: "A Desolation Called Peace (Teixcalaan, #2)"
+title: "A Desolation Called Peace"
+subtitle: "(Teixcalaan, #2)"
 author: Arkady Martine
 authorSort: Martine, Arkady
 pageCount: 496

@@ -1,5 +1,6 @@
 ---
-title: "Children of Time (Children of Time, #1)"
+title: "Children of Time"
+subtitle: "(Children of Time, #1)"
 author: Adrian Tchaikovsky
 authorSort: Tchaikovsky, Adrian
 pageCount: 608

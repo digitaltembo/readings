@@ -1,5 +1,6 @@
 ---
-title: "The Amazing Maurice and His Educated Rodents (Discworld, #28)"
+title: "The Amazing Maurice and His Educated Rodents"
+subtitle: "(Discworld, #28)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 256

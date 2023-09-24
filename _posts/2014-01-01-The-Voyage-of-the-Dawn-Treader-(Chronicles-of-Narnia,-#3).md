@@ -1,5 +1,6 @@
 ---
-title: "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)"
+title: "The Voyage of the Dawn Treader"
+subtitle: "(Chronicles of Narnia, #3)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 248

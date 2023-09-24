@@ -1,5 +1,6 @@
 ---
-title: "Reaper Man (Discworld, #11; Death, #2)"
+title: "Reaper Man"
+subtitle: "(Discworld, #11; Death, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 289

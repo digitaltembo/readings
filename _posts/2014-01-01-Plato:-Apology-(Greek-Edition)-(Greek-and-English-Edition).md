@@ -1,5 +1,6 @@
 ---
-title: "Plato: Apology (Greek Edition) (Greek and English Edition)"
+title: "Plato:"
+subtitle: "Apology (Greek Edition) (Greek and English Edition)"
 author: Plato
 authorSort: Plato, Plato
 pageCount: 127

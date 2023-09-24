@@ -1,5 +1,6 @@
 ---
-title: "Walt Kelly's Pogo Romances Recaptured: 2 Pogo Classics in 1 Volume: Pogo, Prisoner of Love - the Incompleat Pogo"
+title: "Walt Kelly's Pogo Romances Recaptured: 2 Pogo Classics in 1 Volume:"
+subtitle: "Pogo, Prisoner of Love - the Incompleat Pogo"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount: 320

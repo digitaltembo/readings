@@ -1,5 +1,6 @@
 ---
-title: "Pyramids (Discworld, #7)"
+title: "Pyramids"
+subtitle: "(Discworld, #7)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 341

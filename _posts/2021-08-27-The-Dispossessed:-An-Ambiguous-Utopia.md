@@ -1,5 +1,6 @@
 ---
-title: "The Dispossessed: An Ambiguous Utopia"
+title: "The Dispossessed:"
+subtitle: "An Ambiguous Utopia"
 author: Ursula K. Le Guin
 authorSort: Guin, Ursula K. Le
 pageCount: 387

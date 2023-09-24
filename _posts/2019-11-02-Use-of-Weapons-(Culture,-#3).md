@@ -1,5 +1,6 @@
 ---
-title: "Use of Weapons (Culture, #3)"
+title: "Use of Weapons"
+subtitle: "(Culture, #3)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 411

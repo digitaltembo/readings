@@ -1,5 +1,6 @@
 ---
-title: "Inversions (Culture, #6)"
+title: "Inversions"
+subtitle: "(Culture, #6)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 343

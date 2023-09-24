@@ -1,5 +1,6 @@
 ---
-title: "Small Gods (Discworld, #13)"
+title: "Small Gods"
+subtitle: "(Discworld, #13)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 400

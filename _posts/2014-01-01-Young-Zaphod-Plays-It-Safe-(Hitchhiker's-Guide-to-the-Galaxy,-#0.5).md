@@ -1,5 +1,6 @@
 ---
-title: "Young Zaphod Plays It Safe (Hitchhiker's Guide to the Galaxy, #0.5)"
+title: "Young Zaphod Plays It Safe"
+subtitle: "(Hitchhiker's Guide to the Galaxy, #0.5)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 11

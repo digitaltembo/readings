@@ -1,5 +1,6 @@
 ---
-title: "Du côté de chez Swann (À la recherche du temps perdu, #1)"
+title: "Du côté de chez Swann"
+subtitle: "(À la recherche du temps perdu, #1)"
 author: Marcel Proust
 authorSort: Proust, Marcel
 pageCount: 710

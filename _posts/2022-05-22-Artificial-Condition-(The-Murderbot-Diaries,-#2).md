@@ -1,5 +1,6 @@
 ---
-title: "Artificial Condition (The Murderbot Diaries, #2)"
+title: "Artificial Condition"
+subtitle: "(The Murderbot Diaries, #2)"
 author: Martha Wells
 authorSort: Wells, Martha
 pageCount: 158

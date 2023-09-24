@@ -1,5 +1,6 @@
 ---
-title: "The Way of Kings (The Stormlight Archive, #1)"
+title: "The Way of Kings"
+subtitle: "(The Stormlight Archive, #1)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 1007

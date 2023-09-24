@@ -1,5 +1,6 @@
 ---
-title: "The Name of the Wind (The Kingkiller Chronicle, #1)"
+title: "The Name of the Wind"
+subtitle: "(The Kingkiller Chronicle, #1)"
 author: Patrick Rothfuss
 authorSort: Rothfuss, Patrick
 pageCount: 662

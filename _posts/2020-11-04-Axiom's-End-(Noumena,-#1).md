@@ -1,5 +1,6 @@
 ---
-title: "Axiom's End (Noumena, #1)"
+title: "Axiom's End"
+subtitle: "(Noumena, #1)"
 author: Lindsay  Ellis
 authorSort: Ellis, Lindsay
 pageCount: 384

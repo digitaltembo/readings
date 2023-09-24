@@ -1,5 +1,6 @@
 ---
-title: "The Final Empire (Mistborn, #1)"
+title: "The Final Empire"
+subtitle: "(Mistborn, #1)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 537

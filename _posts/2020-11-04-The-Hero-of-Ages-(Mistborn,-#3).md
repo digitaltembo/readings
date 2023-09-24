@@ -1,5 +1,6 @@
 ---
-title: "The Hero of Ages (Mistborn, #3)"
+title: "The Hero of Ages"
+subtitle: "(Mistborn, #3)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 572

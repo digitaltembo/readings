@@ -1,5 +1,6 @@
 ---
-title: "I, Robot (Robot, #0.1)"
+title: "I, Robot"
+subtitle: "(Robot, #0.1)"
 author: Isaac Asimov
 authorSort: Asimov, Isaac
 pageCount: 224

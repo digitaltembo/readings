@@ -1,5 +1,6 @@
 ---
-title: "The Inimitable Jeeves (Jeeves, #2)"
+title: "The Inimitable Jeeves"
+subtitle: "(Jeeves, #2)"
 author: P.G. Wodehouse
 authorSort: Wodehouse, P.G.
 pageCount: 240

@@ -1,5 +1,6 @@
 ---
-title: "The Foundation Trilogy (Foundation, #1-3)"
+title: "The Foundation Trilogy"
+subtitle: "(Foundation, #1-3)"
 author: Isaac Asimov
 authorSort: Asimov, Isaac
 pageCount: 679

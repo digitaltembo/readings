@@ -1,5 +1,6 @@
 ---
-title: "Parable of the Talents (Earthseed, #2)"
+title: "Parable of the Talents"
+subtitle: "(Earthseed, #2)"
 author: Octavia E. Butler
 authorSort: Butler, Octavia E.
 pageCount: 448

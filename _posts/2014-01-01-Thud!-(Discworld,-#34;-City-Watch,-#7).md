@@ -1,5 +1,6 @@
 ---
-title: "Thud! (Discworld, #34; City Watch, #7)"
+title: "Thud!"
+subtitle: "(Discworld, #34; City Watch, #7)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 439

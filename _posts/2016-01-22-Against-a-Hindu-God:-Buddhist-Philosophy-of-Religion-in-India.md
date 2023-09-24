@@ -1,5 +1,6 @@
 ---
-title: "Against a Hindu God: Buddhist Philosophy of Religion in India"
+title: "Against a Hindu God:"
+subtitle: "Buddhist Philosophy of Religion in India"
 author: Parimal G. Patil
 authorSort: Patil, Parimal G.
 pageCount: 400

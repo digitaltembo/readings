@@ -1,5 +1,6 @@
 ---
-title: "The State of the Art (Culture, #4)"
+title: "The State of the Art"
+subtitle: "(Culture, #4)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 188

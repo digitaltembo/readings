@@ -1,5 +1,6 @@
 ---
-title: "The Mysterious Affair at Styles (Hercule Poirot, #1)"
+title: "The Mysterious Affair at Styles"
+subtitle: "(Hercule Poirot, #1)"
 author: Agatha Christie
 authorSort: Christie, Agatha
 pageCount: 121

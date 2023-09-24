@@ -1,5 +1,6 @@
 ---
-title: "The Great Train Robbery (Movie Edition)"
+title: "The Great Train Robbery"
+subtitle: "(Movie Edition)"
 author: Michael Crichton
 authorSort: Crichton, Michael
 pageCount: 300

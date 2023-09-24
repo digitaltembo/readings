@@ -1,5 +1,6 @@
 ---
-title: "The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures"
+title: "The Spirit Catches You and You Fall Down:"
+subtitle: "A Hmong Child, Her American Doctors, and the Collision of Two Cultures"
 author: Anne Fadiman
 authorSort: Fadiman, Anne
 pageCount: 341

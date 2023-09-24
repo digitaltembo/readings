@@ -1,5 +1,6 @@
 ---
-title: "Lila: An Inquiry Into Morals (Phaedrus, #2)"
+title: "Lila:"
+subtitle: "An Inquiry Into Morals (Phaedrus, #2)"
 author: Robert M. Pirsig
 authorSort: Pirsig, Robert M.
 pageCount: 480

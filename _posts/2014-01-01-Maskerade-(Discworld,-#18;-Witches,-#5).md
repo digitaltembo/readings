@@ -1,5 +1,6 @@
 ---
-title: "Maskerade (Discworld, #18; Witches, #5)"
+title: "Maskerade"
+subtitle: "(Discworld, #18; Witches, #5)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 285

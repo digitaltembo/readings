@@ -1,5 +1,6 @@
 ---
-title: "The Andromeda Strain (Andromeda, #1)"
+title: "The Andromeda Strain"
+subtitle: "(Andromeda, #1)"
 author: Michael Crichton
 authorSort: Crichton, Michael
 pageCount: 327

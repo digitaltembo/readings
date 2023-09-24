@@ -1,5 +1,6 @@
 ---
-title: "Lonesome Dove (Lonesome Dove, #1)"
+title: "Lonesome Dove"
+subtitle: "(Lonesome Dove, #1)"
 author: Larry McMurtry
 authorSort: McMurtry, Larry
 pageCount: 960

@@ -1,5 +1,6 @@
 ---
-title: "Holes (Holes, #1)"
+title: "Holes"
+subtitle: "(Holes, #1)"
 author: Louis Sachar
 authorSort: Sachar, Louis
 pageCount: 272

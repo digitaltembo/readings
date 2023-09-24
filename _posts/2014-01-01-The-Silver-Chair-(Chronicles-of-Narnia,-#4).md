@@ -1,5 +1,6 @@
 ---
-title: "The Silver Chair (Chronicles of Narnia, #4)"
+title: "The Silver Chair"
+subtitle: "(Chronicles of Narnia, #4)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 243

@@ -1,5 +1,6 @@
 ---
-title: "MaddAddam (MaddAddam, #3)"
+title: "MaddAddam"
+subtitle: "(MaddAddam, #3)"
 author: Margaret Atwood
 authorSort: Atwood, Margaret
 pageCount: 394

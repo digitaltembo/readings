@@ -1,5 +1,6 @@
 ---
-title: "The Lost World (Jurassic Park, #2)"
+title: "The Lost World"
+subtitle: "(Jurassic Park, #2)"
 author: Michael Crichton
 authorSort: Crichton, Michael
 pageCount: 448

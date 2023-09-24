@@ -1,5 +1,6 @@
 ---
-title: "Shadows in Flight (The Shadow Series, #5)"
+title: "Shadows in Flight"
+subtitle: "(The Shadow Series, #5)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 237

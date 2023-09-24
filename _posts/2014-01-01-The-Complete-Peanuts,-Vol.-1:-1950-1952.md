@@ -1,5 +1,6 @@
 ---
-title: "The Complete Peanuts, Vol. 1: 1950-1952"
+title: "The Complete Peanuts, Vol. 1:"
+subtitle: "1950-1952"
 author: Charles M. Schulz
 authorSort: Schulz, Charles M.
 pageCount: 343

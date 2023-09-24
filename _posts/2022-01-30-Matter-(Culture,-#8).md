@@ -1,5 +1,6 @@
 ---
-title: "Matter (Culture, #8)"
+title: "Matter"
+subtitle: "(Culture, #8)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 593

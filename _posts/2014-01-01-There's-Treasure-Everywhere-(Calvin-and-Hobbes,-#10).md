@@ -1,5 +1,6 @@
 ---
-title: "There's Treasure Everywhere (Calvin and Hobbes, #10)"
+title: "There's Treasure Everywhere"
+subtitle: "(Calvin and Hobbes, #10)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 176

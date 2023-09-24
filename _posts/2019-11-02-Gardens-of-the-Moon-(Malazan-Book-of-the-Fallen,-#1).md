@@ -1,5 +1,6 @@
 ---
-title: "Gardens of the Moon (Malazan Book of the Fallen, #1)"
+title: "Gardens of the Moon"
+subtitle: "(Malazan Book of the Fallen, #1)"
 author: Steven Erikson
 authorSort: Erikson, Steven
 pageCount: 657

@@ -1,5 +1,6 @@
 ---
-title: "Children of Dune (Dune Chronicles #3)"
+title: "Children of Dune"
+subtitle: "(Dune Chronicles #3)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 408

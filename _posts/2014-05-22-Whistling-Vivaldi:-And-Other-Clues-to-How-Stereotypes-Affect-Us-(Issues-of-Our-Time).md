@@ -1,5 +1,6 @@
 ---
-title: "Whistling Vivaldi: And Other Clues to How Stereotypes Affect Us (Issues of Our Time)"
+title: "Whistling Vivaldi:"
+subtitle: "And Other Clues to How Stereotypes Affect Us (Issues of Our Time)"
 author: Claude M. Steele
 authorSort: Steele, Claude M.
 pageCount: 242

@@ -1,5 +1,6 @@
 ---
-title: "Oryx and Crake (MaddAddam, #1)"
+title: "Oryx and Crake"
+subtitle: "(MaddAddam, #1)"
 author: Margaret Atwood
 authorSort: Atwood, Margaret
 pageCount: 389

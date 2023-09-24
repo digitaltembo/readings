@@ -1,5 +1,6 @@
 ---
-title: "The Da Vinci Code (Robert Langdon, #2)"
+title: "The Da Vinci Code"
+subtitle: "(Robert Langdon, #2)"
 author: Dan Brown
 authorSort: Brown, Dan
 pageCount: 489

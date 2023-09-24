@@ -1,5 +1,6 @@
 ---
-title: "Hogfather (Discworld, #20; Death, #4)"
+title: "Hogfather"
+subtitle: "(Discworld, #20; Death, #4)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 448

@@ -1,5 +1,6 @@
 ---
-title: "Carpe Jugulum (Discworld, #23; Witches, #6)"
+title: "Carpe Jugulum"
+subtitle: "(Discworld, #23; Witches, #6)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 296

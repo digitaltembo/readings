@@ -1,5 +1,6 @@
 ---
-title: "Pathfinder (Pathfinder, #1)"
+title: "Pathfinder"
+subtitle: "(Pathfinder, #1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 657

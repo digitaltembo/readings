@@ -1,5 +1,6 @@
 ---
-title: "Pogo's Will Be That Was (Fireside Book)"
+title: "Pogo's Will Be That Was"
+subtitle: "(Fireside Book)"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount: 381

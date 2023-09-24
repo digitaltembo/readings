@@ -1,5 +1,6 @@
 ---
-title: "Three Parts Dead (Craft Sequence, #1)"
+title: "Three Parts Dead"
+subtitle: "(Craft Sequence, #1)"
 author: Max Gladstone
 authorSort: Gladstone, Max
 pageCount: 336

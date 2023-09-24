@@ -1,5 +1,6 @@
 ---
-title: "Xenocide (Ender's Saga, #3)"
+title: "Xenocide"
+subtitle: "(Ender's Saga, #3)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 592

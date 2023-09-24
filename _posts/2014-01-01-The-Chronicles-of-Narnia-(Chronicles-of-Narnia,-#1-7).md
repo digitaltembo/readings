@@ -1,5 +1,6 @@
 ---
-title: "The Chronicles of Narnia (Chronicles of Narnia, #1-7)"
+title: "The Chronicles of Narnia"
+subtitle: "(Chronicles of Narnia, #1-7)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 767

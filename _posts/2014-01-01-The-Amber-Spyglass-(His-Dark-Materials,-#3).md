@@ -1,5 +1,6 @@
 ---
-title: "The Amber Spyglass (His Dark Materials, #3)"
+title: "The Amber Spyglass"
+subtitle: "(His Dark Materials, #3)"
 author: Philip Pullman
 authorSort: Pullman, Philip
 pageCount: 465

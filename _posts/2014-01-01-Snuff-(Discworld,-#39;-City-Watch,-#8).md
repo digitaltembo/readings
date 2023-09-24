@@ -1,5 +1,6 @@
 ---
-title: "Snuff (Discworld, #39; City Watch, #8)"
+title: "Snuff"
+subtitle: "(Discworld, #39; City Watch, #8)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 378

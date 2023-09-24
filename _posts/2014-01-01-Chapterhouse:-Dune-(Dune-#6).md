@@ -1,5 +1,6 @@
 ---
-title: "Chapterhouse: Dune (Dune #6)"
+title: "Chapterhouse:"
+subtitle: "Dune (Dune #6)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 436

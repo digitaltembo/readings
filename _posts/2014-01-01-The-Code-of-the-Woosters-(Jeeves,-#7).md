@@ -1,5 +1,6 @@
 ---
-title: "The Code of the Woosters (Jeeves, #7)"
+title: "The Code of the Woosters"
+subtitle: "(Jeeves, #7)"
 author: P.G. Wodehouse
 authorSort: Wodehouse, P.G.
 pageCount: 272

@@ -1,5 +1,6 @@
 ---
-title: "The Arctic Incident  (Artemis Fowl, #2)"
+title: "The Arctic Incident "
+subtitle: "(Artemis Fowl, #2)"
 author: Eoin Colfer
 authorSort: Colfer, Eoin
 pageCount: 398

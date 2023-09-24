@@ -1,5 +1,6 @@
 ---
-title: "The Salmon of Doubt (Dirk Gently, #3)"
+title: "The Salmon of Doubt"
+subtitle: "(Dirk Gently, #3)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 298

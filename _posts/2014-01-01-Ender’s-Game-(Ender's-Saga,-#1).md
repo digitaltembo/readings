@@ -1,5 +1,6 @@
 ---
-title: "Ender’s Game (Ender's Saga, #1)"
+title: "Ender’s Game"
+subtitle: "(Ender's Saga, #1)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 324

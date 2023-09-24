@@ -1,5 +1,6 @@
 ---
-title: "No Time to Lose: A Timely Guide to the Way of the Bodhisattva"
+title: "No Time to Lose:"
+subtitle: "A Timely Guide to the Way of the Bodhisattva"
 author: Pema Chödrön
 authorSort: Chödrön, Pema
 pageCount: 361

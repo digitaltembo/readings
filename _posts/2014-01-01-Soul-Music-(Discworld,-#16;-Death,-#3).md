@@ -1,5 +1,6 @@
 ---
-title: "Soul Music (Discworld, #16; Death, #3)"
+title: "Soul Music"
+subtitle: "(Discworld, #16; Death, #3)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 424

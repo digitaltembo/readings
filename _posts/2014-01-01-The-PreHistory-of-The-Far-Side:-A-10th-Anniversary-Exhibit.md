@@ -1,5 +1,6 @@
 ---
-title: "The PreHistory of The Far Side: A 10th Anniversary Exhibit"
+title: "The PreHistory of The Far Side:"
+subtitle: "A 10th Anniversary Exhibit"
 author: Gary Larson
 authorSort: Larson, Gary
 pageCount: 288

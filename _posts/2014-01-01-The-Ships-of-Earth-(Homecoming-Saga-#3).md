@@ -1,5 +1,6 @@
 ---
-title: "The Ships of Earth (Homecoming Saga #3)"
+title: "The Ships of Earth"
+subtitle: "(Homecoming Saga #3)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 351

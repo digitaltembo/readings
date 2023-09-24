@@ -1,5 +1,6 @@
 ---
-title: "The Opal Deception (Artemis Fowl, #4)"
+title: "The Opal Deception"
+subtitle: "(Artemis Fowl, #4)"
 author: Eoin Colfer
 authorSort: Colfer, Eoin
 pageCount: 528

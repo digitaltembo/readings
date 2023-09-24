@@ -1,5 +1,6 @@
 ---
-title: "The Calvin and Hobbes Lazy Sunday Book (Volume 4)"
+title: "The Calvin and Hobbes Lazy Sunday Book"
+subtitle: "(Volume 4)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 128

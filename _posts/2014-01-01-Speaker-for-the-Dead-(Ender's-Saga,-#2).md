@@ -1,5 +1,6 @@
 ---
-title: "Speaker for the Dead (Ender's Saga, #2)"
+title: "Speaker for the Dead"
+subtitle: "(Ender's Saga, #2)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 382

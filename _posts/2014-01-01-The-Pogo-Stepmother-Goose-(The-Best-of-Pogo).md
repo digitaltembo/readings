@@ -1,5 +1,6 @@
 ---
-title: "The Pogo Stepmother Goose (The Best of Pogo)"
+title: "The Pogo Stepmother Goose"
+subtitle: "(The Best of Pogo)"
 author: Walt Kelly
 authorSort: Kelly, Walt
 pageCount: 96

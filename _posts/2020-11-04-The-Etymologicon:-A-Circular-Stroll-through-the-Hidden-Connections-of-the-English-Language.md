@@ -1,5 +1,6 @@
 ---
-title: "The Etymologicon: A Circular Stroll through the Hidden Connections of the English Language"
+title: "The Etymologicon:"
+subtitle: "A Circular Stroll through the Hidden Connections of the English Language"
 author: Mark Forsyth
 authorSort: Forsyth, Mark
 pageCount: 252

@@ -1,5 +1,6 @@
 ---
-title: "Making Money (Discworld, #36; Moist Von Lipwig, #2)"
+title: "Making Money"
+subtitle: "(Discworld, #36; Moist Von Lipwig, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 394

@@ -1,5 +1,6 @@
 ---
-title: "The Revenge of the Baby-Sat (Calvin and Hobbes, #5)"
+title: "The Revenge of the Baby-Sat"
+subtitle: "(Calvin and Hobbes, #5)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 128

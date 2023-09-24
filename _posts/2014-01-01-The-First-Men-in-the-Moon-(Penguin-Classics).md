@@ -1,5 +1,6 @@
 ---
-title: "The First Men in the Moon (Penguin Classics)"
+title: "The First Men in the Moon"
+subtitle: "(Penguin Classics)"
 author: H.G. Wells
 authorSort: Wells, H.G.
 pageCount: 213

@@ -1,5 +1,6 @@
 ---
-title: "It's a Magical World (Calvin and Hobbes, #11)"
+title: "It's a Magical World"
+subtitle: "(Calvin and Hobbes, #11)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 176

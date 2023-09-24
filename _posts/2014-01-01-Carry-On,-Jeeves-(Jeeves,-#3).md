@@ -1,5 +1,6 @@
 ---
-title: "Carry On, Jeeves (Jeeves, #3)"
+title: "Carry On, Jeeves"
+subtitle: "(Jeeves, #3)"
 author: P.G. Wodehouse
 authorSort: Wodehouse, P.G.
 pageCount: 273

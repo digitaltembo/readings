@@ -1,5 +1,6 @@
 ---
-title: "A Wizard of Earthsea (Earthsea Cycle, #1)"
+title: "A Wizard of Earthsea"
+subtitle: "(Earthsea Cycle, #1)"
 author: Ursula K. Le Guin
 authorSort: Guin, Ursula K. Le
 pageCount: 183

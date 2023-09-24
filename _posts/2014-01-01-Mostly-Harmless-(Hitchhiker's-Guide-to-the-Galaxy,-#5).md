@@ -1,5 +1,6 @@
 ---
-title: "Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)"
+title: "Mostly Harmless"
+subtitle: "(Hitchhiker's Guide to the Galaxy, #5)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 240

@@ -1,5 +1,6 @@
 ---
-title: "Calvin and Hobbes (Calvin and Hobbes, #1)"
+title: "Calvin and Hobbes"
+subtitle: "(Calvin and Hobbes, #1)"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 128

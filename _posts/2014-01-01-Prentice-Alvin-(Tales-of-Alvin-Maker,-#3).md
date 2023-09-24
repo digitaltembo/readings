@@ -1,5 +1,6 @@
 ---
-title: "Prentice Alvin (Tales of Alvin Maker, #3)"
+title: "Prentice Alvin"
+subtitle: "(Tales of Alvin Maker, #3)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 342

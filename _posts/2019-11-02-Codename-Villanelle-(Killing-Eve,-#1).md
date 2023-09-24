@@ -1,5 +1,6 @@
 ---
-title: "Codename Villanelle (Killing Eve, #1)"
+title: "Codename Villanelle"
+subtitle: "(Killing Eve, #1)"
 author: Luke Jennings
 authorSort: Jennings, Luke
 pageCount: 220

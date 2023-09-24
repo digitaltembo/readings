@@ -1,5 +1,6 @@
 ---
-title: "A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)"
+title: "A Hat Full of Sky"
+subtitle: "(Discworld, #32; Tiffany Aching, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 352

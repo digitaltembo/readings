@@ -1,5 +1,6 @@
 ---
-title: "The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury"
+title: "The Authoritative Calvin and Hobbes:"
+subtitle: "A Calvin and Hobbes Treasury"
 author: Bill Watterson
 authorSort: Watterson, Bill
 pageCount: 254

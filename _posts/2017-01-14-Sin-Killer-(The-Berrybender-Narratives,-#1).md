@@ -1,5 +1,6 @@
 ---
-title: "Sin Killer (The Berrybender Narratives, #1)"
+title: "Sin Killer"
+subtitle: "(The Berrybender Narratives, #1)"
 author: Larry McMurtry
 authorSort: McMurtry, Larry
 pageCount: 304

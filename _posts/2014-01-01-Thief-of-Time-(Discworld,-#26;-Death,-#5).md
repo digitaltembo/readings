@@ -1,5 +1,6 @@
 ---
-title: "Thief of Time (Discworld, #26; Death, #5)"
+title: "Thief of Time"
+subtitle: "(Discworld, #26; Death, #5)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 378

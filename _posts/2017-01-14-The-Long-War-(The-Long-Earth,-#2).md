@@ -1,5 +1,6 @@
 ---
-title: "The Long War (The Long Earth, #2)"
+title: "The Long War"
+subtitle: "(The Long Earth, #2)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 419

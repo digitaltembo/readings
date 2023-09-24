@@ -1,5 +1,6 @@
 ---
-title: "The Fifth Season (The Broken Earth, #1)"
+title: "The Fifth Season"
+subtitle: "(The Broken Earth, #1)"
 author: N.K. Jemisin
 authorSort: Jemisin, N.K.
 pageCount: 468

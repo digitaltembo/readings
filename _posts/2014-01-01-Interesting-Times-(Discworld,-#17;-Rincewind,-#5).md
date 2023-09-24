@@ -1,5 +1,6 @@
 ---
-title: "Interesting Times (Discworld, #17; Rincewind, #5)"
+title: "Interesting Times"
+subtitle: "(Discworld, #17; Rincewind, #5)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 368

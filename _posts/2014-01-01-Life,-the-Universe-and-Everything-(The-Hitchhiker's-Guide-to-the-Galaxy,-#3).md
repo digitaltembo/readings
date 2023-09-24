@@ -1,5 +1,6 @@
 ---
-title: "Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)"
+title: "Life, the Universe and Everything"
+subtitle: "(The Hitchhiker's Guide to the Galaxy, #3)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 224

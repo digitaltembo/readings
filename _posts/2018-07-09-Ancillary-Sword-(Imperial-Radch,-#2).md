@@ -1,5 +1,6 @@
 ---
-title: "Ancillary Sword (Imperial Radch, #2)"
+title: "Ancillary Sword"
+subtitle: "(Imperial Radch, #2)"
 author: Ann Leckie
 authorSort: Leckie, Ann
 pageCount: 359

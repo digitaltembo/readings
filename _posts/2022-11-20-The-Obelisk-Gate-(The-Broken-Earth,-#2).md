@@ -1,5 +1,6 @@
 ---
-title: "The Obelisk Gate (The Broken Earth, #2)"
+title: "The Obelisk Gate"
+subtitle: "(The Broken Earth, #2)"
 author: N.K. Jemisin
 authorSort: Jemisin, N.K.
 pageCount: 410

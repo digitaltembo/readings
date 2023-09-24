@@ -1,5 +1,6 @@
 ---
-title: "The Last Hero (Discworld, #27; Rincewind, #7)"
+title: "The Last Hero"
+subtitle: "(Discworld, #27; Rincewind, #7)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 176

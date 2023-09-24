@@ -1,5 +1,6 @@
 ---
-title: "An Anthropologist on Mars: Seven Paradoxical Tales"
+title: "An Anthropologist on Mars:"
+subtitle: "Seven Paradoxical Tales"
 author: Oliver Sacks
 authorSort: Sacks, Oliver
 pageCount: 318

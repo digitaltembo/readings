@@ -1,5 +1,6 @@
 ---
-title: "Shadow Puppets (The Shadow Series, #3)"
+title: "Shadow Puppets"
+subtitle: "(The Shadow Series, #3)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 375

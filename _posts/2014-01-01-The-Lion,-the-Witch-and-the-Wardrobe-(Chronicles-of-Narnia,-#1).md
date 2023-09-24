@@ -1,5 +1,6 @@
 ---
-title: "The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)"
+title: "The Lion, the Witch and the Wardrobe"
+subtitle: "(Chronicles of Narnia, #1)"
 author: C.S. Lewis
 authorSort: Lewis, C.S.
 pageCount: 206

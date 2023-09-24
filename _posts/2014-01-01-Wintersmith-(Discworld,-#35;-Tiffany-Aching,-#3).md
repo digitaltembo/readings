@@ -1,5 +1,6 @@
 ---
-title: "Wintersmith (Discworld, #35; Tiffany Aching, #3)"
+title: "Wintersmith"
+subtitle: "(Discworld, #35; Tiffany Aching, #3)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 325

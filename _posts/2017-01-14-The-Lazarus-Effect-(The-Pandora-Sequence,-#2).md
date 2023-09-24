@@ -1,5 +1,6 @@
 ---
-title: "The Lazarus Effect (The Pandora Sequence, #2)"
+title: "The Lazarus Effect"
+subtitle: "(The Pandora Sequence, #2)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 393

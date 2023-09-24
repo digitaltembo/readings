@@ -1,5 +1,6 @@
 ---
-title: "God Emperor of Dune (Dune Chronicles #4)"
+title: "God Emperor of Dune"
+subtitle: "(Dune Chronicles #4)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 454

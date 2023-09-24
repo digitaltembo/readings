@@ -1,5 +1,6 @@
 ---
-title: "Words of Radiance (The Stormlight Archive, #2)"
+title: "Words of Radiance"
+subtitle: "(The Stormlight Archive, #2)"
 author: Brandon Sanderson
 authorSort: Sanderson, Brandon
 pageCount: 1087

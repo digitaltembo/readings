@@ -1,5 +1,6 @@
 ---
-title: "The Handmaid’s Tale (The Handmaid's Tale, #1)"
+title: "The Handmaid’s Tale"
+subtitle: "(The Handmaid's Tale, #1)"
 author: Margaret Atwood
 authorSort: Atwood, Margaret
 pageCount: 314

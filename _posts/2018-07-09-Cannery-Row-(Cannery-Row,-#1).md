@@ -1,5 +1,6 @@
 ---
-title: "Cannery Row (Cannery Row, #1)"
+title: "Cannery Row"
+subtitle: "(Cannery Row, #1)"
 author: John Steinbeck
 authorSort: Steinbeck, John
 pageCount: 181

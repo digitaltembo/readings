@@ -1,5 +1,6 @@
 ---
-title: "Charlie and the Chocolate Factory (Charlie Bucket, #1)"
+title: "Charlie and the Chocolate Factory"
+subtitle: "(Charlie Bucket, #1)"
 author: Roald Dahl
 authorSort: Dahl, Roald
 pageCount: 176

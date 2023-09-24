@@ -1,5 +1,6 @@
 ---
-title: "A Dance with Dragons (A Song of Ice and Fire, #5)"
+title: "A Dance with Dragons"
+subtitle: "(A Song of Ice and Fire, #5)"
 author: George R.R. Martin
 authorSort: Martin, George R.R.
 pageCount: 1125

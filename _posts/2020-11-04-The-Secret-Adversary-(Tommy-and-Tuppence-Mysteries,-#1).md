@@ -1,5 +1,6 @@
 ---
-title: "The Secret Adversary (Tommy and Tuppence Mysteries, #1)"
+title: "The Secret Adversary"
+subtitle: "(Tommy and Tuppence Mysteries, #1)"
 author: Agatha Christie
 authorSort: Christie, Agatha
 pageCount: 268

@@ -1,5 +1,6 @@
 ---
-title: "David Balfour (David Balfour, #2)"
+title: "David Balfour"
+subtitle: "(David Balfour, #2)"
 author: Robert Louis Stevenson
 authorSort: Stevenson, Robert Louis
 pageCount: 356

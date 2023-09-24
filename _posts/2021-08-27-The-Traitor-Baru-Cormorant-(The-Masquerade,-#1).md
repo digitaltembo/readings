@@ -1,5 +1,6 @@
 ---
-title: "The Traitor Baru Cormorant (The Masquerade, #1)"
+title: "The Traitor Baru Cormorant"
+subtitle: "(The Masquerade, #1)"
 author: Seth Dickinson
 authorSort: Dickinson, Seth
 pageCount: 399

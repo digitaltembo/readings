@@ -1,5 +1,6 @@
 ---
-title: "The Wee Free Men (Discworld, #30; Tiffany Aching, #1)"
+title: "The Wee Free Men"
+subtitle: "(Discworld, #30; Tiffany Aching, #1)"
 author: Terry Pratchett
 authorSort: Pratchett, Terry
 pageCount: 375

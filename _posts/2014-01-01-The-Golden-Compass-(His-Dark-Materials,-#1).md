@@ -1,5 +1,6 @@
 ---
-title: "The Golden Compass (His Dark Materials, #1)"
+title: "The Golden Compass"
+subtitle: "(His Dark Materials, #1)"
 author: Philip Pullman
 authorSort: Pullman, Philip
 pageCount: 399

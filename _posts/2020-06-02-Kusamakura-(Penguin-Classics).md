@@ -1,5 +1,6 @@
 ---
-title: "Kusamakura (Penguin Classics)"
+title: "Kusamakura"
+subtitle: "(Penguin Classics)"
 author: Natsume Sōseki
 authorSort: Sōseki, Natsume
 pageCount: 152

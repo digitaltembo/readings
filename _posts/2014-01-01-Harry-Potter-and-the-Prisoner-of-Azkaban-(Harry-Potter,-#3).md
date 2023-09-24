@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)"
+title: "Harry Potter and the Prisoner of Azkaban"
+subtitle: "(Harry Potter, #3)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 435

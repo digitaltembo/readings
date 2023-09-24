@@ -1,5 +1,6 @@
 ---
-title: "The Jesus Incident (The Pandora Sequence, #1)"
+title: "The Jesus Incident"
+subtitle: "(The Pandora Sequence, #1)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 432

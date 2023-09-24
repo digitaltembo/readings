@@ -1,5 +1,6 @@
 ---
-title: "The Hobbit (The Lord of the Rings, #0)"
+title: "The Hobbit"
+subtitle: "(The Lord of the Rings, #0)"
 author: J.R.R. Tolkien
 authorSort: Tolkien, J.R.R.
 pageCount: 366

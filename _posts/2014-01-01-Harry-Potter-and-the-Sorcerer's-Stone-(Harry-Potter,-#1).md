@@ -1,5 +1,6 @@
 ---
-title: "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"
+title: "Harry Potter and the Sorcerer's Stone"
+subtitle: "(Harry Potter, #1)"
 author: J.K. Rowling
 authorSort: Rowling, J.K.
 pageCount: 309

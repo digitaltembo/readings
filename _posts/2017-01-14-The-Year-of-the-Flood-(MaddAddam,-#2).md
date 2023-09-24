@@ -1,5 +1,6 @@
 ---
-title: "The Year of the Flood (MaddAddam, #2)"
+title: "The Year of the Flood"
+subtitle: "(MaddAddam, #2)"
 author: Margaret Atwood
 authorSort: Atwood, Margaret
 pageCount: 431

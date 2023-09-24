@@ -1,5 +1,6 @@
 ---
-title: "The Last Wish (The Witcher, #0.5)"
+title: "The Last Wish"
+subtitle: "(The Witcher, #0.5)"
 author: Andrzej Sapkowski
 authorSort: Sapkowski, Andrzej
 pageCount: 400

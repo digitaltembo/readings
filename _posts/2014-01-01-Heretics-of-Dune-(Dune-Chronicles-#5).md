@@ -1,5 +1,6 @@
 ---
-title: "Heretics of Dune (Dune Chronicles #5)"
+title: "Heretics of Dune"
+subtitle: "(Dune Chronicles #5)"
 author: Frank Herbert
 authorSort: Herbert, Frank
 pageCount: 471

@@ -1,5 +1,6 @@
 ---
-title: "Red Prophet (Tales of Alvin Maker, #2)"
+title: "Red Prophet"
+subtitle: "(Tales of Alvin Maker, #2)"
 author: Orson Scott Card
 authorSort: Card, Orson Scott
 pageCount: 311

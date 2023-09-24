@@ -1,5 +1,6 @@
 ---
-title: "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time"
+title: "Three Cups of Tea:"
+subtitle: "One Man's Mission to Promote Peace ... One School at a Time"
 author: Greg Mortenson
 authorSort: Mortenson, Greg
 pageCount: 349

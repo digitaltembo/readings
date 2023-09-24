@@ -1,5 +1,6 @@
 ---
-title: "Excession (Culture, #5)"
+title: "Excession"
+subtitle: "(Culture, #5)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 500

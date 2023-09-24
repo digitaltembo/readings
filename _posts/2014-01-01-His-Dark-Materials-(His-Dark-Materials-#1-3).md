@@ -1,5 +1,6 @@
 ---
-title: "His Dark Materials (His Dark Materials #1-3)"
+title: "His Dark Materials"
+subtitle: "(His Dark Materials #1-3)"
 author: Philip Pullman
 authorSort: Pullman, Philip
 pageCount: 1088

@@ -1,5 +1,6 @@
 ---
-title: "The Hunger Games (The Hunger Games, #1)"
+title: "The Hunger Games"
+subtitle: "(The Hunger Games, #1)"
 author: Suzanne Collins
 authorSort: Collins, Suzanne
 pageCount: 374

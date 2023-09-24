@@ -1,5 +1,6 @@
 ---
-title: "Foundation (Foundation, #1)"
+title: "Foundation"
+subtitle: "(Foundation, #1)"
 author: Isaac Asimov
 authorSort: Asimov, Isaac
 pageCount: 244

@@ -1,5 +1,6 @@
 ---
-title: "Look to Windward (Culture, #7)"
+title: "Look to Windward"
+subtitle: "(Culture, #7)"
 author: Iain M. Banks
 authorSort: Banks, Iain M.
 pageCount: 496

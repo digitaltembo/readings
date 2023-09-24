@@ -1,5 +1,6 @@
 ---
-title: "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)"
+title: "The Hitchhiker's Guide to the Galaxy"
+subtitle: "(Hitchhiker's Guide to the Galaxy, #1)"
 author: Douglas Adams
 authorSort: Adams, Douglas
 pageCount: 216
