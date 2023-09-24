@@ -9,6 +9,6 @@ written: 1984
 stars: 4
 layout: post
 category: book
-tags: read unreviewed scifi
+tags: read unreviewed scifi space-opera
 mapping: USA, North America
 ---

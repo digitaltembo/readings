@@ -4,7 +4,7 @@ author: Sascha Stronach
 date: 2023-07-03 18:54:32
 layout: post
 category: book
-tags: read scifi
+tags: read scifi pirates
 stars: 4
 mapping: Wellington, New Zealand, Oceania
 gender: m

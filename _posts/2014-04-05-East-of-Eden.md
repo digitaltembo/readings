@@ -8,6 +8,6 @@ written: 1952
 stars: 5
 layout: post
 category: book
-tags: read unreviewed
+tags: read unreviewed favorite best
 mapping: USA, North America
 ---

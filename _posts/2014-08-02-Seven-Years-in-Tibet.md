@@ -8,7 +8,7 @@ written: 1953
 stars: 5
 layout: post
 category: book
-tags: read unreviewed autobiograph
+tags: read unreviewed autobiography
 mapping: Austria, Europe
 gender: m
 ---

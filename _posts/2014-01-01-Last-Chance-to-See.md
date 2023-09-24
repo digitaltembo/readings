@@ -8,6 +8,6 @@ written: 1990
 stars: 5
 layout: post
 category: book
-tags: read unreviewed non-fiction animals
+tags: read unreviewed non-fiction animals nature
 mapping: England, UK, Europe
 ---

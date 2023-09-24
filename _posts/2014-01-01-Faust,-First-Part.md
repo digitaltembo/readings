@@ -8,7 +8,7 @@ written: 1808
 stars: 4
 layout: post
 category: book
-tags: read unreviewed play poem
+tags: read unreviewed play poetry
 mapping: Germany, Europe
 gender: m
 translatedFrom: German

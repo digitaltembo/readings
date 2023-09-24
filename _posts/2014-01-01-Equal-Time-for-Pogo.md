@@ -8,6 +8,6 @@ written: 1968
 stars: 4
 layout: post
 category: book
-tags: read unreviewed comic
+tags: read unreviewed comics
 mapping: USA, North America
 ---

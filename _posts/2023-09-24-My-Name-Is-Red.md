@@ -5,8 +5,9 @@ written: 1998
 stars: 4
 layout: post
 category: book
-tags: listened fiction historical
+tags: listened historical
 mapping: Istanbul, Turkey, Europe
+translatedFrom: Turkish
 gender: m
 ---
 
