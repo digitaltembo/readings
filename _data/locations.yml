@@ -113,6 +113,12 @@ Europe:
   Sweden:
     latitude: '59.6749712'
     longitude: '14.5208584'
+  Turkey:
+    latitude: '38.9597594'
+    longitude: '34.9249653'
+    Istanbul:
+      latitude: '41.0091982'
+      longitude: '28.9662187'
 South America:
   Venezuela:
     latitude: '8.0018709'
