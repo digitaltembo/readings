@@ -100,3 +100,25 @@ title: Nolan Can Read a Map
     >{{ tag }} ({{count}})</a>
   {% endfor %}
 </p>
+
+<h2>Timeline</h2>
+(I got a bit lazy with bce so those dates are just negative)
+<ul class="tree">
+  {% time_tree %}
+</ul>
+
+<h2>Review Content</h2>
+<p>
+  {% assign wordcount = 0 %}
+  {% assign reviewcount = 0 %}
+    {% for post in site.posts %}
+    {% assign thiscount =  post.content | number_of_words %}
+    {% assign wordcount =  wordcount | plus: thiscount %} 
+    {% if thiscount > 0 %}
+      {% assign reviewcount = reviewcount | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  Words: {{ wordcount }}
+  Pages: {{ wordcount | divided_by: 300 }}
+  Reviews: {{ reviewcount }}
+</p>
