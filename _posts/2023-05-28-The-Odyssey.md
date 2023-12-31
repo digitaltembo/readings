@@ -2,6 +2,7 @@
 title: "The Odyssey"
 author: Homer
 date: 2023-05-28 22:29:41
+written: -700
 layout: post
 category: book
 tags: listened adventure

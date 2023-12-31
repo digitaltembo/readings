@@ -2,6 +2,7 @@
 title: "Wuthering Heights"
 author: Emily Brontë
 date: 2023-05-20 20:51:00
+written: 1847
 layout: post
 category: book
 tags: listened Victorian

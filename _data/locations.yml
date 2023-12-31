@@ -36,6 +36,15 @@ North America:
     VT:
       latitude: '44.5990718'
       longitude: "-72.5002608"
+    California:
+      latitude: '36.7014631'
+      longitude: "-118.755997"
+      Los Angeles:
+        latitude: '34.0536909'
+        longitude: "-118.242766"
+    Maine:
+      latitude: '45.709097'
+      longitude: "-68.8590201"
   Mexico:
     Veracruz:
       Xalapa:
@@ -66,6 +75,9 @@ Europe:
     Scotland:
       latitude: '56.7861112'
       longitude: "-4.1140518"
+      Edinburgh:
+        latitude: '55.9533456'
+        longitude: "-3.1883749"
   Ireland:
     latitude: '52.865196'
     longitude: "-7.9794599"
@@ -158,6 +170,9 @@ Asia:
   China:
     latitude: '35.000074'
     longitude: '104.999927'
+    Beijing:
+      latitude: '40.190632'
+      longitude: '116.412144'
   India:
     latitude: '22.3511148'
     longitude: '78.6677428'
@@ -200,6 +215,12 @@ Africa:
   Martinique:
     latitude: '14.6367927'
     longitude: "-61.01582685063731"
+  Tunisia:
+    latitude: '36.8002068'
+    longitude: '10.1857757'
+    Tunis:
+      latitude: '36.8002068'
+      longitude: '10.1857757'
 Central America:
   latitude: "-30.29284845"
   longitude: '153.12561585745573'

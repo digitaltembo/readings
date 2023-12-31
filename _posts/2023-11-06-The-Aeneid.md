@@ -1,14 +1,14 @@
 ---
 author: Virgil
 pageCount: 484
-written: 19 BCE
+written: -19
 stars: 4
 layout: post
 category: book
 tags: listened historical
 translatedFrom: Latin
-map: Italy, Europe
+mapping: Italy, Europe
 gender: m
 ---
 
-Pretty good fanfic
+Pretty good for self-insert fanfic. Better then the Iliad, better in parts and pieces than the Odyssey.
