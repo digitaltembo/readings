@@ -10,6 +10,9 @@ North America:
     NY:
       latitude: '43.1561681'
       longitude: "-75.8449946"
+      New York City:
+        latitude: '40.7127281'
+        longitude: "-74.0060152"
     Virginia:
       latitude: '37.1232245'
       longitude: "-78.4927721"
@@ -45,6 +48,21 @@ North America:
     Maine:
       latitude: '45.709097'
       longitude: "-68.8590201"
+    IL:
+      latitude: '40.0796606'
+      longitude: "-89.4337288"
+      East St. Louis:
+        latitude: '38.6268666'
+        longitude: "-90.159707"
+    CA:
+      latitude: '36.7014631'
+      longitude: "-118.755997"
+    OH:
+      latitude: '40.2253569'
+      longitude: "-82.6881395"
+      Lexington:
+        latitude: '40.6787196'
+        longitude: "-82.5827749"
   Mexico:
     Veracruz:
       Xalapa:
@@ -78,6 +96,8 @@ Europe:
       Edinburgh:
         latitude: '55.9533456'
         longitude: "-3.1883749"
+    Englan:
+      London: {}
   Ireland:
     latitude: '52.865196'
     longitude: "-7.9794599"
@@ -131,6 +151,9 @@ Europe:
     Istanbul:
       latitude: '41.0091982'
       longitude: '28.9662187'
+  Hungary:
+    latitude: '47.1817585'
+    longitude: '19.5060937'
 South America:
   Venezuela:
     latitude: '8.0018709'
@@ -152,6 +175,12 @@ South America:
   Guyana:
     latitude: '4.8417097'
     longitude: "-58.6416891"
+  Chile:
+    latitude: "-31.7613365"
+    longitude: "-71.3187697"
+    Santiago:
+      latitude: "-33.4377756"
+      longitude: "-70.6504502"
 Asia:
   Japan:
     Tokyo:
@@ -173,6 +202,9 @@ Asia:
     Beijing:
       latitude: '40.190632'
       longitude: '116.412144'
+    Hong Kong:
+      latitude: '22.350627'
+      longitude: '114.1849161'
   India:
     latitude: '22.3511148'
     longitude: '78.6677428'
@@ -221,6 +253,13 @@ Africa:
     Tunis:
       latitude: '36.8002068'
       longitude: '10.1857757'
+  South Africa:
+    latitude: "-28.8166236"
+    longitude: '24.991639'
+    Johannesberg: {}
+    Johannesburg:
+      latitude: "-26.205"
+      longitude: '28.049722'
 Central America:
   latitude: "-30.29284845"
   longitude: '153.12561585745573'
@@ -236,9 +275,18 @@ Central America:
       Xalapa:
         latitude: '19.5408338'
         longitude: "-96.9146374"
+    Mexico City:
+      latitude: '19.4326296'
+      longitude: "-99.1331785"
   Dominican Republic:
     latitude: '19.0974031'
     longitude: "-70.3028026"
   Martinique:
     latitude: '14.6367927'
     longitude: "-61.01582685063731"
+Chile:
+  latitude: "-31.7613365"
+  longitude: "-71.3187697"
+  Santiago:
+    latitude: "-33.4377756"
+    longitude: "-70.6504502"

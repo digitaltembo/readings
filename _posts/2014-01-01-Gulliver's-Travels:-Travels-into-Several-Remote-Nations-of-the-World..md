@@ -9,7 +9,7 @@ written: 1726
 stars: 4
 layout: post
 category: book
-tags: read unreviewed fantasy satire
+tags: read unreviewed fantasy humor
 mapping: Ireland, Europe
 gender: m
 ---

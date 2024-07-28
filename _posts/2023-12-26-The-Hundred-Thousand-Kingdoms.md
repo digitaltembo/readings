@@ -1,7 +1,7 @@
 ---
 author: N.K. Jemisin
 pageCount: 427
-written: 2023
+written: 2010
 stars: 3
 layout: post
 category: book
