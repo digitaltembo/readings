@@ -63,6 +63,18 @@ North America:
       Lexington:
         latitude: '40.6787196'
         longitude: "-82.5827749"
+    Idaho:
+      latitude: '43.6447642'
+      longitude: "-114.015407"
+      Boise:
+        latitude: '43.6166163'
+        longitude: "-116.200886"
+    New York:
+      latitude: '40.7127281'
+      longitude: "-74.0060152"
+      NYC:
+        latitude: '40.7127281'
+        longitude: "-74.0060152"
   Mexico:
     Veracruz:
       Xalapa:

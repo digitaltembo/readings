@@ -10,3 +10,5 @@ gender: m
 translatedFrom: Hungarian
 mapping: Hungary, Europe
 ---
+
+Manic, wonderfully manic, brilliant.
