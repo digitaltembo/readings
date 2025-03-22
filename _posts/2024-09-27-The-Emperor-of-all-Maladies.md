@@ -7,5 +7,5 @@ layout: post
 category: book
 tags: listened non-fiction science
 gender: m
-mapping: NYC, New York, USA, North America
+mapping: New York City, NY, USA, North America
 ---
